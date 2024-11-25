@@ -1,0 +1,22 @@
+ChatGLM
+pronoun	correct	name
+ae	156	205
+co	307	197
+e	108	265
+ey	94	220
+vi	166	280
+xe	96	175
+ze	33	179
+male	45	454
+female	32	307
+
+ae	999	1
+co	1000	0
+e	1000	0
+ey	921	23
+vi	995	13
+xe	902	16
+ze	952	90
+male	966	35
+female	943	34
+
