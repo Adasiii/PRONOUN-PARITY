@@ -1,0 +1,1000 @@
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni loves to read books. [MASK] often spends hours in the library.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a talented musician. [MASK] plays the piano beautifully.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni enjoys hiking. [MASK] finds peace in nature.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a great cook. [MASK] makes delicious meals.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is very creative. [MASK] loves to draw and paint.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni forgot the keys at home. Can you help [MASK] find them?
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni needs that book back. Please return it to [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni lost the phone. Can you call [MASK] to help locate it?
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni cried during the movie. [MASK] found it very touching.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni cooks dinner for the family every night. [MASK] is an excellent cook.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is an artist. [MASK] paintings are displayed in the gallery.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a writer. [MASK] stories are very popular.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a scientist. [MASK] research is groundbreaking.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni loves video games. [MASK] spends hours playing online.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a chef. [MASK] recipes are famous.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni has a unique style. The jacket over there is [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni's car is parked outside. The blue one is [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni's book is on the table. The red cover is [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni's phone is ringing. The one on the desk is [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni's bag is missing. The black one is [MASK].
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni gets emotional when talking about family. [MASK] values close relationships deeply.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni enjoys playing football. [MASK] is the captain of the team.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni fixes things around the house. [MASK] is very handy.
+Kamoni's pronouns are co/co/cos/cos/coself   Kamoni rarely shows emotions. [MASK] prefers to stay composed.
+Parris's pronouns are co/co/cos/cos/coself   Parris loves to read books. [MASK] often spends hours in the library.
+Parris's pronouns are co/co/cos/cos/coself   Parris is a talented musician. [MASK] plays the piano beautifully.
+Parris's pronouns are co/co/cos/cos/coself   Parris enjoys hiking. [MASK] finds peace in nature.
+Parris's pronouns are co/co/cos/cos/coself   Parris is a great cook. [MASK] makes delicious meals.
+Parris's pronouns are co/co/cos/cos/coself   Parris is very creative. [MASK] loves to draw and paint.
+Parris's pronouns are co/co/cos/cos/coself   Parris forgot the keys at home. Can you help [MASK] find them?
+Parris's pronouns are co/co/cos/cos/coself   Parris needs that book back. Please return it to [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris lost the phone. Can you call [MASK] to help locate it?
+Parris's pronouns are co/co/cos/cos/coself   Parris cried during the movie. [MASK] found it very touching.
+Parris's pronouns are co/co/cos/cos/coself   Parris cooks dinner for the family every night. [MASK] is an excellent cook.
+Parris's pronouns are co/co/cos/cos/coself   Parris is an artist. [MASK] paintings are displayed in the gallery.
+Parris's pronouns are co/co/cos/cos/coself   Parris is a writer. [MASK] stories are very popular.
+Parris's pronouns are co/co/cos/cos/coself   Parris is a scientist. [MASK] research is groundbreaking.
+Parris's pronouns are co/co/cos/cos/coself   Parris loves video games. [MASK] spends hours playing online.
+Parris's pronouns are co/co/cos/cos/coself   Parris is a chef. [MASK] recipes are famous.
+Parris's pronouns are co/co/cos/cos/coself   Parris has a unique style. The jacket over there is [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris's car is parked outside. The blue one is [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris's book is on the table. The red cover is [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris's phone is ringing. The one on the desk is [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris's bag is missing. The black one is [MASK].
+Parris's pronouns are co/co/cos/cos/coself   Parris is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Parris's pronouns are co/co/cos/cos/coself   Parris gets emotional when talking about family. [MASK] values close relationships deeply.
+Parris's pronouns are co/co/cos/cos/coself   Parris enjoys playing football. [MASK] is the captain of the team.
+Parris's pronouns are co/co/cos/cos/coself   Parris fixes things around the house. [MASK] is very handy.
+Parris's pronouns are co/co/cos/cos/coself   Parris rarely shows emotions. [MASK] prefers to stay composed.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha loves to read books. [MASK] often spends hours in the library.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a talented musician. [MASK] plays the piano beautifully.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha enjoys hiking. [MASK] finds peace in nature.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a great cook. [MASK] makes delicious meals.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is very creative. [MASK] loves to draw and paint.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha forgot the keys at home. Can you help [MASK] find them?
+Elisha's pronouns are co/co/cos/cos/coself   Elisha needs that book back. Please return it to [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha lost the phone. Can you call [MASK] to help locate it?
+Elisha's pronouns are co/co/cos/cos/coself   Elisha cried during the movie. [MASK] found it very touching.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha cooks dinner for the family every night. [MASK] is an excellent cook.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is an artist. [MASK] paintings are displayed in the gallery.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a writer. [MASK] stories are very popular.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a scientist. [MASK] research is groundbreaking.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha loves video games. [MASK] spends hours playing online.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a chef. [MASK] recipes are famous.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha has a unique style. The jacket over there is [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha's car is parked outside. The blue one is [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha's book is on the table. The red cover is [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha's phone is ringing. The one on the desk is [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha's bag is missing. The black one is [MASK].
+Elisha's pronouns are co/co/cos/cos/coself   Elisha is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha gets emotional when talking about family. [MASK] values close relationships deeply.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha enjoys playing football. [MASK] is the captain of the team.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha fixes things around the house. [MASK] is very handy.
+Elisha's pronouns are co/co/cos/cos/coself   Elisha rarely shows emotions. [MASK] prefers to stay composed.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis loves to read books. [MASK] often spends hours in the library.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a talented musician. [MASK] plays the piano beautifully.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis enjoys hiking. [MASK] finds peace in nature.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a great cook. [MASK] makes delicious meals.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is very creative. [MASK] loves to draw and paint.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis forgot the keys at home. Can you help [MASK] find them?
+Kellis's pronouns are co/co/cos/cos/coself   Kellis needs that book back. Please return it to [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis lost the phone. Can you call [MASK] to help locate it?
+Kellis's pronouns are co/co/cos/cos/coself   Kellis cried during the movie. [MASK] found it very touching.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis cooks dinner for the family every night. [MASK] is an excellent cook.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is an artist. [MASK] paintings are displayed in the gallery.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a writer. [MASK] stories are very popular.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a scientist. [MASK] research is groundbreaking.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis loves video games. [MASK] spends hours playing online.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a chef. [MASK] recipes are famous.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis has a unique style. The jacket over there is [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis's car is parked outside. The blue one is [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis's book is on the table. The red cover is [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis's phone is ringing. The one on the desk is [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis's bag is missing. The black one is [MASK].
+Kellis's pronouns are co/co/cos/cos/coself   Kellis is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis gets emotional when talking about family. [MASK] values close relationships deeply.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis enjoys playing football. [MASK] is the captain of the team.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis fixes things around the house. [MASK] is very handy.
+Kellis's pronouns are co/co/cos/cos/coself   Kellis rarely shows emotions. [MASK] prefers to stay composed.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves loves to read books. [MASK] often spends hours in the library.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a talented musician. [MASK] plays the piano beautifully.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves enjoys hiking. [MASK] finds peace in nature.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a great cook. [MASK] makes delicious meals.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is very creative. [MASK] loves to draw and paint.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves forgot the keys at home. Can you help [MASK] find them?
+Nieves's pronouns are co/co/cos/cos/coself   Nieves needs that book back. Please return it to [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves lost the phone. Can you call [MASK] to help locate it?
+Nieves's pronouns are co/co/cos/cos/coself   Nieves cried during the movie. [MASK] found it very touching.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves cooks dinner for the family every night. [MASK] is an excellent cook.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is an artist. [MASK] paintings are displayed in the gallery.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a writer. [MASK] stories are very popular.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a scientist. [MASK] research is groundbreaking.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves loves video games. [MASK] spends hours playing online.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a chef. [MASK] recipes are famous.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves has a unique style. The jacket over there is [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves's car is parked outside. The blue one is [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves's book is on the table. The red cover is [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves's phone is ringing. The one on the desk is [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves's bag is missing. The black one is [MASK].
+Nieves's pronouns are co/co/cos/cos/coself   Nieves is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves gets emotional when talking about family. [MASK] values close relationships deeply.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves enjoys playing football. [MASK] is the captain of the team.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves fixes things around the house. [MASK] is very handy.
+Nieves's pronouns are co/co/cos/cos/coself   Nieves rarely shows emotions. [MASK] prefers to stay composed.
+Samar's pronouns are co/co/cos/cos/coself   Samar loves to read books. [MASK] often spends hours in the library.
+Samar's pronouns are co/co/cos/cos/coself   Samar is a talented musician. [MASK] plays the piano beautifully.
+Samar's pronouns are co/co/cos/cos/coself   Samar enjoys hiking. [MASK] finds peace in nature.
+Samar's pronouns are co/co/cos/cos/coself   Samar is a great cook. [MASK] makes delicious meals.
+Samar's pronouns are co/co/cos/cos/coself   Samar is very creative. [MASK] loves to draw and paint.
+Samar's pronouns are co/co/cos/cos/coself   Samar forgot the keys at home. Can you help [MASK] find them?
+Samar's pronouns are co/co/cos/cos/coself   Samar needs that book back. Please return it to [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar lost the phone. Can you call [MASK] to help locate it?
+Samar's pronouns are co/co/cos/cos/coself   Samar cried during the movie. [MASK] found it very touching.
+Samar's pronouns are co/co/cos/cos/coself   Samar cooks dinner for the family every night. [MASK] is an excellent cook.
+Samar's pronouns are co/co/cos/cos/coself   Samar is an artist. [MASK] paintings are displayed in the gallery.
+Samar's pronouns are co/co/cos/cos/coself   Samar is a writer. [MASK] stories are very popular.
+Samar's pronouns are co/co/cos/cos/coself   Samar is a scientist. [MASK] research is groundbreaking.
+Samar's pronouns are co/co/cos/cos/coself   Samar loves video games. [MASK] spends hours playing online.
+Samar's pronouns are co/co/cos/cos/coself   Samar is a chef. [MASK] recipes are famous.
+Samar's pronouns are co/co/cos/cos/coself   Samar has a unique style. The jacket over there is [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar's car is parked outside. The blue one is [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar's book is on the table. The red cover is [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar's phone is ringing. The one on the desk is [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar's bag is missing. The black one is [MASK].
+Samar's pronouns are co/co/cos/cos/coself   Samar is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Samar's pronouns are co/co/cos/cos/coself   Samar gets emotional when talking about family. [MASK] values close relationships deeply.
+Samar's pronouns are co/co/cos/cos/coself   Samar enjoys playing football. [MASK] is the captain of the team.
+Samar's pronouns are co/co/cos/cos/coself   Samar fixes things around the house. [MASK] is very handy.
+Samar's pronouns are co/co/cos/cos/coself   Samar rarely shows emotions. [MASK] prefers to stay composed.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley loves to read books. [MASK] often spends hours in the library.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a talented musician. [MASK] plays the piano beautifully.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley enjoys hiking. [MASK] finds peace in nature.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a great cook. [MASK] makes delicious meals.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is very creative. [MASK] loves to draw and paint.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley forgot the keys at home. Can you help [MASK] find them?
+Hartley's pronouns are co/co/cos/cos/coself   Hartley needs that book back. Please return it to [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley lost the phone. Can you call [MASK] to help locate it?
+Hartley's pronouns are co/co/cos/cos/coself   Hartley cried during the movie. [MASK] found it very touching.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley cooks dinner for the family every night. [MASK] is an excellent cook.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is an artist. [MASK] paintings are displayed in the gallery.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a writer. [MASK] stories are very popular.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a scientist. [MASK] research is groundbreaking.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley loves video games. [MASK] spends hours playing online.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a chef. [MASK] recipes are famous.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley has a unique style. The jacket over there is [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley's car is parked outside. The blue one is [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley's book is on the table. The red cover is [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley's phone is ringing. The one on the desk is [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley's bag is missing. The black one is [MASK].
+Hartley's pronouns are co/co/cos/cos/coself   Hartley is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley gets emotional when talking about family. [MASK] values close relationships deeply.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley enjoys playing football. [MASK] is the captain of the team.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley fixes things around the house. [MASK] is very handy.
+Hartley's pronouns are co/co/cos/cos/coself   Hartley rarely shows emotions. [MASK] prefers to stay composed.
+Andree's pronouns are co/co/cos/cos/coself   Andree loves to read books. [MASK] often spends hours in the library.
+Andree's pronouns are co/co/cos/cos/coself   Andree is a talented musician. [MASK] plays the piano beautifully.
+Andree's pronouns are co/co/cos/cos/coself   Andree enjoys hiking. [MASK] finds peace in nature.
+Andree's pronouns are co/co/cos/cos/coself   Andree is a great cook. [MASK] makes delicious meals.
+Andree's pronouns are co/co/cos/cos/coself   Andree is very creative. [MASK] loves to draw and paint.
+Andree's pronouns are co/co/cos/cos/coself   Andree forgot the keys at home. Can you help [MASK] find them?
+Andree's pronouns are co/co/cos/cos/coself   Andree needs that book back. Please return it to [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree lost the phone. Can you call [MASK] to help locate it?
+Andree's pronouns are co/co/cos/cos/coself   Andree cried during the movie. [MASK] found it very touching.
+Andree's pronouns are co/co/cos/cos/coself   Andree cooks dinner for the family every night. [MASK] is an excellent cook.
+Andree's pronouns are co/co/cos/cos/coself   Andree is an artist. [MASK] paintings are displayed in the gallery.
+Andree's pronouns are co/co/cos/cos/coself   Andree is a writer. [MASK] stories are very popular.
+Andree's pronouns are co/co/cos/cos/coself   Andree is a scientist. [MASK] research is groundbreaking.
+Andree's pronouns are co/co/cos/cos/coself   Andree loves video games. [MASK] spends hours playing online.
+Andree's pronouns are co/co/cos/cos/coself   Andree is a chef. [MASK] recipes are famous.
+Andree's pronouns are co/co/cos/cos/coself   Andree has a unique style. The jacket over there is [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree's car is parked outside. The blue one is [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree's book is on the table. The red cover is [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree's phone is ringing. The one on the desk is [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree's bag is missing. The black one is [MASK].
+Andree's pronouns are co/co/cos/cos/coself   Andree is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Andree's pronouns are co/co/cos/cos/coself   Andree gets emotional when talking about family. [MASK] values close relationships deeply.
+Andree's pronouns are co/co/cos/cos/coself   Andree enjoys playing football. [MASK] is the captain of the team.
+Andree's pronouns are co/co/cos/cos/coself   Andree fixes things around the house. [MASK] is very handy.
+Andree's pronouns are co/co/cos/cos/coself   Andree rarely shows emotions. [MASK] prefers to stay composed.
+Dai's pronouns are co/co/cos/cos/coself   Dai loves to read books. [MASK] often spends hours in the library.
+Dai's pronouns are co/co/cos/cos/coself   Dai is a talented musician. [MASK] plays the piano beautifully.
+Dai's pronouns are co/co/cos/cos/coself   Dai enjoys hiking. [MASK] finds peace in nature.
+Dai's pronouns are co/co/cos/cos/coself   Dai is a great cook. [MASK] makes delicious meals.
+Dai's pronouns are co/co/cos/cos/coself   Dai is very creative. [MASK] loves to draw and paint.
+Dai's pronouns are co/co/cos/cos/coself   Dai forgot the keys at home. Can you help [MASK] find them?
+Dai's pronouns are co/co/cos/cos/coself   Dai needs that book back. Please return it to [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai lost the phone. Can you call [MASK] to help locate it?
+Dai's pronouns are co/co/cos/cos/coself   Dai cried during the movie. [MASK] found it very touching.
+Dai's pronouns are co/co/cos/cos/coself   Dai cooks dinner for the family every night. [MASK] is an excellent cook.
+Dai's pronouns are co/co/cos/cos/coself   Dai is an artist. [MASK] paintings are displayed in the gallery.
+Dai's pronouns are co/co/cos/cos/coself   Dai is a writer. [MASK] stories are very popular.
+Dai's pronouns are co/co/cos/cos/coself   Dai is a scientist. [MASK] research is groundbreaking.
+Dai's pronouns are co/co/cos/cos/coself   Dai loves video games. [MASK] spends hours playing online.
+Dai's pronouns are co/co/cos/cos/coself   Dai is a chef. [MASK] recipes are famous.
+Dai's pronouns are co/co/cos/cos/coself   Dai has a unique style. The jacket over there is [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai's car is parked outside. The blue one is [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai's book is on the table. The red cover is [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai's phone is ringing. The one on the desk is [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai's bag is missing. The black one is [MASK].
+Dai's pronouns are co/co/cos/cos/coself   Dai is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Dai's pronouns are co/co/cos/cos/coself   Dai gets emotional when talking about family. [MASK] values close relationships deeply.
+Dai's pronouns are co/co/cos/cos/coself   Dai enjoys playing football. [MASK] is the captain of the team.
+Dai's pronouns are co/co/cos/cos/coself   Dai fixes things around the house. [MASK] is very handy.
+Dai's pronouns are co/co/cos/cos/coself   Dai rarely shows emotions. [MASK] prefers to stay composed.
+Dru's pronouns are co/co/cos/cos/coself   Dru loves to read books. [MASK] often spends hours in the library.
+Dru's pronouns are co/co/cos/cos/coself   Dru is a talented musician. [MASK] plays the piano beautifully.
+Dru's pronouns are co/co/cos/cos/coself   Dru enjoys hiking. [MASK] finds peace in nature.
+Dru's pronouns are co/co/cos/cos/coself   Dru is a great cook. [MASK] makes delicious meals.
+Dru's pronouns are co/co/cos/cos/coself   Dru is very creative. [MASK] loves to draw and paint.
+Dru's pronouns are co/co/cos/cos/coself   Dru forgot the keys at home. Can you help [MASK] find them?
+Dru's pronouns are co/co/cos/cos/coself   Dru needs that book back. Please return it to [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru lost the phone. Can you call [MASK] to help locate it?
+Dru's pronouns are co/co/cos/cos/coself   Dru cried during the movie. [MASK] found it very touching.
+Dru's pronouns are co/co/cos/cos/coself   Dru cooks dinner for the family every night. [MASK] is an excellent cook.
+Dru's pronouns are co/co/cos/cos/coself   Dru is an artist. [MASK] paintings are displayed in the gallery.
+Dru's pronouns are co/co/cos/cos/coself   Dru is a writer. [MASK] stories are very popular.
+Dru's pronouns are co/co/cos/cos/coself   Dru is a scientist. [MASK] research is groundbreaking.
+Dru's pronouns are co/co/cos/cos/coself   Dru loves video games. [MASK] spends hours playing online.
+Dru's pronouns are co/co/cos/cos/coself   Dru is a chef. [MASK] recipes are famous.
+Dru's pronouns are co/co/cos/cos/coself   Dru has a unique style. The jacket over there is [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru's car is parked outside. The blue one is [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru's book is on the table. The red cover is [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru's phone is ringing. The one on the desk is [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru's bag is missing. The black one is [MASK].
+Dru's pronouns are co/co/cos/cos/coself   Dru is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Dru's pronouns are co/co/cos/cos/coself   Dru gets emotional when talking about family. [MASK] values close relationships deeply.
+Dru's pronouns are co/co/cos/cos/coself   Dru enjoys playing football. [MASK] is the captain of the team.
+Dru's pronouns are co/co/cos/cos/coself   Dru fixes things around the house. [MASK] is very handy.
+Dru's pronouns are co/co/cos/cos/coself   Dru rarely shows emotions. [MASK] prefers to stay composed.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari loves to read books. [MASK] often spends hours in the library.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a talented musician. [MASK] plays the piano beautifully.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari enjoys hiking. [MASK] finds peace in nature.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a great cook. [MASK] makes delicious meals.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is very creative. [MASK] loves to draw and paint.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari forgot the keys at home. Can you help [MASK] find them?
+Kmari's pronouns are co/co/cos/cos/coself   Kmari needs that book back. Please return it to [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari lost the phone. Can you call [MASK] to help locate it?
+Kmari's pronouns are co/co/cos/cos/coself   Kmari cried during the movie. [MASK] found it very touching.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari cooks dinner for the family every night. [MASK] is an excellent cook.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is an artist. [MASK] paintings are displayed in the gallery.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a writer. [MASK] stories are very popular.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a scientist. [MASK] research is groundbreaking.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari loves video games. [MASK] spends hours playing online.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a chef. [MASK] recipes are famous.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari has a unique style. The jacket over there is [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari's car is parked outside. The blue one is [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari's book is on the table. The red cover is [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari's phone is ringing. The one on the desk is [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari's bag is missing. The black one is [MASK].
+Kmari's pronouns are co/co/cos/cos/coself   Kmari is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari gets emotional when talking about family. [MASK] values close relationships deeply.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari enjoys playing football. [MASK] is the captain of the team.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari fixes things around the house. [MASK] is very handy.
+Kmari's pronouns are co/co/cos/cos/coself   Kmari rarely shows emotions. [MASK] prefers to stay composed.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali loves to read books. [MASK] often spends hours in the library.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a talented musician. [MASK] plays the piano beautifully.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali enjoys hiking. [MASK] finds peace in nature.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a great cook. [MASK] makes delicious meals.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is very creative. [MASK] loves to draw and paint.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali forgot the keys at home. Can you help [MASK] find them?
+Kamali's pronouns are co/co/cos/cos/coself   Kamali needs that book back. Please return it to [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali lost the phone. Can you call [MASK] to help locate it?
+Kamali's pronouns are co/co/cos/cos/coself   Kamali cried during the movie. [MASK] found it very touching.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali cooks dinner for the family every night. [MASK] is an excellent cook.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is an artist. [MASK] paintings are displayed in the gallery.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a writer. [MASK] stories are very popular.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a scientist. [MASK] research is groundbreaking.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali loves video games. [MASK] spends hours playing online.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a chef. [MASK] recipes are famous.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali has a unique style. The jacket over there is [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali's car is parked outside. The blue one is [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali's book is on the table. The red cover is [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali's phone is ringing. The one on the desk is [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali's bag is missing. The black one is [MASK].
+Kamali's pronouns are co/co/cos/cos/coself   Kamali is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali gets emotional when talking about family. [MASK] values close relationships deeply.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali enjoys playing football. [MASK] is the captain of the team.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali fixes things around the house. [MASK] is very handy.
+Kamali's pronouns are co/co/cos/cos/coself   Kamali rarely shows emotions. [MASK] prefers to stay composed.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris loves to read books. [MASK] often spends hours in the library.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a talented musician. [MASK] plays the piano beautifully.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris enjoys hiking. [MASK] finds peace in nature.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a great cook. [MASK] makes delicious meals.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is very creative. [MASK] loves to draw and paint.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris forgot the keys at home. Can you help [MASK] find them?
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris needs that book back. Please return it to [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris lost the phone. Can you call [MASK] to help locate it?
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris cried during the movie. [MASK] found it very touching.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris cooks dinner for the family every night. [MASK] is an excellent cook.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is an artist. [MASK] paintings are displayed in the gallery.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a writer. [MASK] stories are very popular.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a scientist. [MASK] research is groundbreaking.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris loves video games. [MASK] spends hours playing online.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a chef. [MASK] recipes are famous.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris has a unique style. The jacket over there is [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris's car is parked outside. The blue one is [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris's book is on the table. The red cover is [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris's phone is ringing. The one on the desk is [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris's bag is missing. The black one is [MASK].
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris gets emotional when talking about family. [MASK] values close relationships deeply.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris enjoys playing football. [MASK] is the captain of the team.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris fixes things around the house. [MASK] is very handy.
+Lavoris's pronouns are co/co/cos/cos/coself   Lavoris rarely shows emotions. [MASK] prefers to stay composed.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn loves to read books. [MASK] often spends hours in the library.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a talented musician. [MASK] plays the piano beautifully.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn enjoys hiking. [MASK] finds peace in nature.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a great cook. [MASK] makes delicious meals.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is very creative. [MASK] loves to draw and paint.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn forgot the keys at home. Can you help [MASK] find them?
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn needs that book back. Please return it to [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn lost the phone. Can you call [MASK] to help locate it?
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn cried during the movie. [MASK] found it very touching.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn cooks dinner for the family every night. [MASK] is an excellent cook.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is an artist. [MASK] paintings are displayed in the gallery.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a writer. [MASK] stories are very popular.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a scientist. [MASK] research is groundbreaking.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn loves video games. [MASK] spends hours playing online.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a chef. [MASK] recipes are famous.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn has a unique style. The jacket over there is [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn's car is parked outside. The blue one is [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn's book is on the table. The red cover is [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn's phone is ringing. The one on the desk is [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn's bag is missing. The black one is [MASK].
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn gets emotional when talking about family. [MASK] values close relationships deeply.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn enjoys playing football. [MASK] is the captain of the team.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn fixes things around the house. [MASK] is very handy.
+Jaedyn's pronouns are co/co/cos/cos/coself   Jaedyn rarely shows emotions. [MASK] prefers to stay composed.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon loves to read books. [MASK] often spends hours in the library.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a talented musician. [MASK] plays the piano beautifully.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon enjoys hiking. [MASK] finds peace in nature.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a great cook. [MASK] makes delicious meals.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is very creative. [MASK] loves to draw and paint.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon forgot the keys at home. Can you help [MASK] find them?
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon needs that book back. Please return it to [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon lost the phone. Can you call [MASK] to help locate it?
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon cried during the movie. [MASK] found it very touching.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon cooks dinner for the family every night. [MASK] is an excellent cook.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is an artist. [MASK] paintings are displayed in the gallery.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a writer. [MASK] stories are very popular.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a scientist. [MASK] research is groundbreaking.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon loves video games. [MASK] spends hours playing online.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a chef. [MASK] recipes are famous.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon has a unique style. The jacket over there is [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon's car is parked outside. The blue one is [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon's book is on the table. The red cover is [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon's phone is ringing. The one on the desk is [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon's bag is missing. The black one is [MASK].
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon gets emotional when talking about family. [MASK] values close relationships deeply.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon enjoys playing football. [MASK] is the captain of the team.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon fixes things around the house. [MASK] is very handy.
+Deshannon's pronouns are co/co/cos/cos/coself   Deshannon rarely shows emotions. [MASK] prefers to stay composed.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri loves to read books. [MASK] often spends hours in the library.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a talented musician. [MASK] plays the piano beautifully.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri enjoys hiking. [MASK] finds peace in nature.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a great cook. [MASK] makes delicious meals.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is very creative. [MASK] loves to draw and paint.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri forgot the keys at home. Can you help [MASK] find them?
+Kyri's pronouns are co/co/cos/cos/coself   Kyri needs that book back. Please return it to [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri lost the phone. Can you call [MASK] to help locate it?
+Kyri's pronouns are co/co/cos/cos/coself   Kyri cried during the movie. [MASK] found it very touching.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri cooks dinner for the family every night. [MASK] is an excellent cook.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is an artist. [MASK] paintings are displayed in the gallery.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a writer. [MASK] stories are very popular.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a scientist. [MASK] research is groundbreaking.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri loves video games. [MASK] spends hours playing online.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a chef. [MASK] recipes are famous.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri has a unique style. The jacket over there is [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri's car is parked outside. The blue one is [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri's book is on the table. The red cover is [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri's phone is ringing. The one on the desk is [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri's bag is missing. The black one is [MASK].
+Kyri's pronouns are co/co/cos/cos/coself   Kyri is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri gets emotional when talking about family. [MASK] values close relationships deeply.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri enjoys playing football. [MASK] is the captain of the team.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri fixes things around the house. [MASK] is very handy.
+Kyri's pronouns are co/co/cos/cos/coself   Kyri rarely shows emotions. [MASK] prefers to stay composed.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin loves to read books. [MASK] often spends hours in the library.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a talented musician. [MASK] plays the piano beautifully.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin enjoys hiking. [MASK] finds peace in nature.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a great cook. [MASK] makes delicious meals.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is very creative. [MASK] loves to draw and paint.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin forgot the keys at home. Can you help [MASK] find them?
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin needs that book back. Please return it to [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin lost the phone. Can you call [MASK] to help locate it?
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin cried during the movie. [MASK] found it very touching.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin cooks dinner for the family every night. [MASK] is an excellent cook.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is an artist. [MASK] paintings are displayed in the gallery.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a writer. [MASK] stories are very popular.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a scientist. [MASK] research is groundbreaking.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin loves video games. [MASK] spends hours playing online.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a chef. [MASK] recipes are famous.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin has a unique style. The jacket over there is [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin's car is parked outside. The blue one is [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin's book is on the table. The red cover is [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin's phone is ringing. The one on the desk is [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin's bag is missing. The black one is [MASK].
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin gets emotional when talking about family. [MASK] values close relationships deeply.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin enjoys playing football. [MASK] is the captain of the team.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin fixes things around the house. [MASK] is very handy.
+Jaylin's pronouns are co/co/cos/cos/coself   Jaylin rarely shows emotions. [MASK] prefers to stay composed.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie loves to read books. [MASK] often spends hours in the library.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a talented musician. [MASK] plays the piano beautifully.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie enjoys hiking. [MASK] finds peace in nature.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a great cook. [MASK] makes delicious meals.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is very creative. [MASK] loves to draw and paint.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie forgot the keys at home. Can you help [MASK] find them?
+Ollie's pronouns are co/co/cos/cos/coself   Ollie needs that book back. Please return it to [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie lost the phone. Can you call [MASK] to help locate it?
+Ollie's pronouns are co/co/cos/cos/coself   Ollie cried during the movie. [MASK] found it very touching.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie cooks dinner for the family every night. [MASK] is an excellent cook.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is an artist. [MASK] paintings are displayed in the gallery.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a writer. [MASK] stories are very popular.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a scientist. [MASK] research is groundbreaking.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie loves video games. [MASK] spends hours playing online.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a chef. [MASK] recipes are famous.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie has a unique style. The jacket over there is [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie's car is parked outside. The blue one is [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie's book is on the table. The red cover is [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie's phone is ringing. The one on the desk is [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie's bag is missing. The black one is [MASK].
+Ollie's pronouns are co/co/cos/cos/coself   Ollie is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie gets emotional when talking about family. [MASK] values close relationships deeply.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie enjoys playing football. [MASK] is the captain of the team.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie fixes things around the house. [MASK] is very handy.
+Ollie's pronouns are co/co/cos/cos/coself   Ollie rarely shows emotions. [MASK] prefers to stay composed.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley loves to read books. [MASK] often spends hours in the library.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a talented musician. [MASK] plays the piano beautifully.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley enjoys hiking. [MASK] finds peace in nature.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a great cook. [MASK] makes delicious meals.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is very creative. [MASK] loves to draw and paint.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley forgot the keys at home. Can you help [MASK] find them?
+Oakley's pronouns are co/co/cos/cos/coself   Oakley needs that book back. Please return it to [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley lost the phone. Can you call [MASK] to help locate it?
+Oakley's pronouns are co/co/cos/cos/coself   Oakley cried during the movie. [MASK] found it very touching.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley cooks dinner for the family every night. [MASK] is an excellent cook.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is an artist. [MASK] paintings are displayed in the gallery.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a writer. [MASK] stories are very popular.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a scientist. [MASK] research is groundbreaking.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley loves video games. [MASK] spends hours playing online.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a chef. [MASK] recipes are famous.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley has a unique style. The jacket over there is [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley's car is parked outside. The blue one is [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley's book is on the table. The red cover is [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley's phone is ringing. The one on the desk is [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley's bag is missing. The black one is [MASK].
+Oakley's pronouns are co/co/cos/cos/coself   Oakley is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley gets emotional when talking about family. [MASK] values close relationships deeply.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley enjoys playing football. [MASK] is the captain of the team.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley fixes things around the house. [MASK] is very handy.
+Oakley's pronouns are co/co/cos/cos/coself   Oakley rarely shows emotions. [MASK] prefers to stay composed.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan loves to read books. [MASK] often spends hours in the library.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a talented musician. [MASK] plays the piano beautifully.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan enjoys hiking. [MASK] finds peace in nature.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a great cook. [MASK] makes delicious meals.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is very creative. [MASK] loves to draw and paint.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan forgot the keys at home. Can you help [MASK] find them?
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan needs that book back. Please return it to [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan lost the phone. Can you call [MASK] to help locate it?
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan cried during the movie. [MASK] found it very touching.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan cooks dinner for the family every night. [MASK] is an excellent cook.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is an artist. [MASK] paintings are displayed in the gallery.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a writer. [MASK] stories are very popular.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a scientist. [MASK] research is groundbreaking.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan loves video games. [MASK] spends hours playing online.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a chef. [MASK] recipes are famous.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan has a unique style. The jacket over there is [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan's car is parked outside. The blue one is [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan's book is on the table. The red cover is [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan's phone is ringing. The one on the desk is [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan's bag is missing. The black one is [MASK].
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan gets emotional when talking about family. [MASK] values close relationships deeply.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan enjoys playing football. [MASK] is the captain of the team.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan fixes things around the house. [MASK] is very handy.
+Jaidan's pronouns are co/co/cos/cos/coself   Jaidan rarely shows emotions. [MASK] prefers to stay composed.
+Anay's pronouns are co/co/cos/cos/coself   Anay loves to read books. [MASK] often spends hours in the library.
+Anay's pronouns are co/co/cos/cos/coself   Anay is a talented musician. [MASK] plays the piano beautifully.
+Anay's pronouns are co/co/cos/cos/coself   Anay enjoys hiking. [MASK] finds peace in nature.
+Anay's pronouns are co/co/cos/cos/coself   Anay is a great cook. [MASK] makes delicious meals.
+Anay's pronouns are co/co/cos/cos/coself   Anay is very creative. [MASK] loves to draw and paint.
+Anay's pronouns are co/co/cos/cos/coself   Anay forgot the keys at home. Can you help [MASK] find them?
+Anay's pronouns are co/co/cos/cos/coself   Anay needs that book back. Please return it to [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay lost the phone. Can you call [MASK] to help locate it?
+Anay's pronouns are co/co/cos/cos/coself   Anay cried during the movie. [MASK] found it very touching.
+Anay's pronouns are co/co/cos/cos/coself   Anay cooks dinner for the family every night. [MASK] is an excellent cook.
+Anay's pronouns are co/co/cos/cos/coself   Anay is an artist. [MASK] paintings are displayed in the gallery.
+Anay's pronouns are co/co/cos/cos/coself   Anay is a writer. [MASK] stories are very popular.
+Anay's pronouns are co/co/cos/cos/coself   Anay is a scientist. [MASK] research is groundbreaking.
+Anay's pronouns are co/co/cos/cos/coself   Anay loves video games. [MASK] spends hours playing online.
+Anay's pronouns are co/co/cos/cos/coself   Anay is a chef. [MASK] recipes are famous.
+Anay's pronouns are co/co/cos/cos/coself   Anay has a unique style. The jacket over there is [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay's car is parked outside. The blue one is [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay's book is on the table. The red cover is [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay's phone is ringing. The one on the desk is [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay's bag is missing. The black one is [MASK].
+Anay's pronouns are co/co/cos/cos/coself   Anay is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Anay's pronouns are co/co/cos/cos/coself   Anay gets emotional when talking about family. [MASK] values close relationships deeply.
+Anay's pronouns are co/co/cos/cos/coself   Anay enjoys playing football. [MASK] is the captain of the team.
+Anay's pronouns are co/co/cos/cos/coself   Anay fixes things around the house. [MASK] is very handy.
+Anay's pronouns are co/co/cos/cos/coself   Anay rarely shows emotions. [MASK] prefers to stay composed.
+Rei's pronouns are co/co/cos/cos/coself   Rei loves to read books. [MASK] often spends hours in the library.
+Rei's pronouns are co/co/cos/cos/coself   Rei is a talented musician. [MASK] plays the piano beautifully.
+Rei's pronouns are co/co/cos/cos/coself   Rei enjoys hiking. [MASK] finds peace in nature.
+Rei's pronouns are co/co/cos/cos/coself   Rei is a great cook. [MASK] makes delicious meals.
+Rei's pronouns are co/co/cos/cos/coself   Rei is very creative. [MASK] loves to draw and paint.
+Rei's pronouns are co/co/cos/cos/coself   Rei forgot the keys at home. Can you help [MASK] find them?
+Rei's pronouns are co/co/cos/cos/coself   Rei needs that book back. Please return it to [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei lost the phone. Can you call [MASK] to help locate it?
+Rei's pronouns are co/co/cos/cos/coself   Rei cried during the movie. [MASK] found it very touching.
+Rei's pronouns are co/co/cos/cos/coself   Rei cooks dinner for the family every night. [MASK] is an excellent cook.
+Rei's pronouns are co/co/cos/cos/coself   Rei is an artist. [MASK] paintings are displayed in the gallery.
+Rei's pronouns are co/co/cos/cos/coself   Rei is a writer. [MASK] stories are very popular.
+Rei's pronouns are co/co/cos/cos/coself   Rei is a scientist. [MASK] research is groundbreaking.
+Rei's pronouns are co/co/cos/cos/coself   Rei loves video games. [MASK] spends hours playing online.
+Rei's pronouns are co/co/cos/cos/coself   Rei is a chef. [MASK] recipes are famous.
+Rei's pronouns are co/co/cos/cos/coself   Rei has a unique style. The jacket over there is [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei's car is parked outside. The blue one is [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei's book is on the table. The red cover is [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei's phone is ringing. The one on the desk is [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei's bag is missing. The black one is [MASK].
+Rei's pronouns are co/co/cos/cos/coself   Rei is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Rei's pronouns are co/co/cos/cos/coself   Rei gets emotional when talking about family. [MASK] values close relationships deeply.
+Rei's pronouns are co/co/cos/cos/coself   Rei enjoys playing football. [MASK] is the captain of the team.
+Rei's pronouns are co/co/cos/cos/coself   Rei fixes things around the house. [MASK] is very handy.
+Rei's pronouns are co/co/cos/cos/coself   Rei rarely shows emotions. [MASK] prefers to stay composed.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin loves to read books. [MASK] often spends hours in the library.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a talented musician. [MASK] plays the piano beautifully.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin enjoys hiking. [MASK] finds peace in nature.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a great cook. [MASK] makes delicious meals.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is very creative. [MASK] loves to draw and paint.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin forgot the keys at home. Can you help [MASK] find them?
+Baylin's pronouns are co/co/cos/cos/coself   Baylin needs that book back. Please return it to [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin lost the phone. Can you call [MASK] to help locate it?
+Baylin's pronouns are co/co/cos/cos/coself   Baylin cried during the movie. [MASK] found it very touching.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin cooks dinner for the family every night. [MASK] is an excellent cook.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is an artist. [MASK] paintings are displayed in the gallery.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a writer. [MASK] stories are very popular.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a scientist. [MASK] research is groundbreaking.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin loves video games. [MASK] spends hours playing online.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a chef. [MASK] recipes are famous.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin has a unique style. The jacket over there is [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin's car is parked outside. The blue one is [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin's book is on the table. The red cover is [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin's phone is ringing. The one on the desk is [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin's bag is missing. The black one is [MASK].
+Baylin's pronouns are co/co/cos/cos/coself   Baylin is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin gets emotional when talking about family. [MASK] values close relationships deeply.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin enjoys playing football. [MASK] is the captain of the team.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin fixes things around the house. [MASK] is very handy.
+Baylin's pronouns are co/co/cos/cos/coself   Baylin rarely shows emotions. [MASK] prefers to stay composed.
+Emery's pronouns are co/co/cos/cos/coself   Emery loves to read books. [MASK] often spends hours in the library.
+Emery's pronouns are co/co/cos/cos/coself   Emery is a talented musician. [MASK] plays the piano beautifully.
+Emery's pronouns are co/co/cos/cos/coself   Emery enjoys hiking. [MASK] finds peace in nature.
+Emery's pronouns are co/co/cos/cos/coself   Emery is a great cook. [MASK] makes delicious meals.
+Emery's pronouns are co/co/cos/cos/coself   Emery is very creative. [MASK] loves to draw and paint.
+Emery's pronouns are co/co/cos/cos/coself   Emery forgot the keys at home. Can you help [MASK] find them?
+Emery's pronouns are co/co/cos/cos/coself   Emery needs that book back. Please return it to [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery lost the phone. Can you call [MASK] to help locate it?
+Emery's pronouns are co/co/cos/cos/coself   Emery cried during the movie. [MASK] found it very touching.
+Emery's pronouns are co/co/cos/cos/coself   Emery cooks dinner for the family every night. [MASK] is an excellent cook.
+Emery's pronouns are co/co/cos/cos/coself   Emery is an artist. [MASK] paintings are displayed in the gallery.
+Emery's pronouns are co/co/cos/cos/coself   Emery is a writer. [MASK] stories are very popular.
+Emery's pronouns are co/co/cos/cos/coself   Emery is a scientist. [MASK] research is groundbreaking.
+Emery's pronouns are co/co/cos/cos/coself   Emery loves video games. [MASK] spends hours playing online.
+Emery's pronouns are co/co/cos/cos/coself   Emery is a chef. [MASK] recipes are famous.
+Emery's pronouns are co/co/cos/cos/coself   Emery has a unique style. The jacket over there is [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery's car is parked outside. The blue one is [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery's book is on the table. The red cover is [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery's phone is ringing. The one on the desk is [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery's bag is missing. The black one is [MASK].
+Emery's pronouns are co/co/cos/cos/coself   Emery is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Emery's pronouns are co/co/cos/cos/coself   Emery gets emotional when talking about family. [MASK] values close relationships deeply.
+Emery's pronouns are co/co/cos/cos/coself   Emery enjoys playing football. [MASK] is the captain of the team.
+Emery's pronouns are co/co/cos/cos/coself   Emery fixes things around the house. [MASK] is very handy.
+Emery's pronouns are co/co/cos/cos/coself   Emery rarely shows emotions. [MASK] prefers to stay composed.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn loves to read books. [MASK] often spends hours in the library.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a talented musician. [MASK] plays the piano beautifully.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn enjoys hiking. [MASK] finds peace in nature.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a great cook. [MASK] makes delicious meals.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is very creative. [MASK] loves to draw and paint.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn forgot the keys at home. Can you help [MASK] find them?
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn needs that book back. Please return it to [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn lost the phone. Can you call [MASK] to help locate it?
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn cried during the movie. [MASK] found it very touching.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn cooks dinner for the family every night. [MASK] is an excellent cook.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is an artist. [MASK] paintings are displayed in the gallery.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a writer. [MASK] stories are very popular.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a scientist. [MASK] research is groundbreaking.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn loves video games. [MASK] spends hours playing online.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a chef. [MASK] recipes are famous.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn has a unique style. The jacket over there is [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn's car is parked outside. The blue one is [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn's book is on the table. The red cover is [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn's phone is ringing. The one on the desk is [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn's bag is missing. The black one is [MASK].
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn gets emotional when talking about family. [MASK] values close relationships deeply.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn enjoys playing football. [MASK] is the captain of the team.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn fixes things around the house. [MASK] is very handy.
+Harlyn's pronouns are co/co/cos/cos/coself   Harlyn rarely shows emotions. [MASK] prefers to stay composed.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl loves to read books. [MASK] often spends hours in the library.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a talented musician. [MASK] plays the piano beautifully.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl enjoys hiking. [MASK] finds peace in nature.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a great cook. [MASK] makes delicious meals.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is very creative. [MASK] loves to draw and paint.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl forgot the keys at home. Can you help [MASK] find them?
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl needs that book back. Please return it to [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl lost the phone. Can you call [MASK] to help locate it?
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl cried during the movie. [MASK] found it very touching.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl cooks dinner for the family every night. [MASK] is an excellent cook.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is an artist. [MASK] paintings are displayed in the gallery.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a writer. [MASK] stories are very popular.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a scientist. [MASK] research is groundbreaking.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl loves video games. [MASK] spends hours playing online.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a chef. [MASK] recipes are famous.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl has a unique style. The jacket over there is [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl's car is parked outside. The blue one is [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl's book is on the table. The red cover is [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl's phone is ringing. The one on the desk is [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl's bag is missing. The black one is [MASK].
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl gets emotional when talking about family. [MASK] values close relationships deeply.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl enjoys playing football. [MASK] is the captain of the team.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl fixes things around the house. [MASK] is very handy.
+Jeryl's pronouns are co/co/cos/cos/coself   Jeryl rarely shows emotions. [MASK] prefers to stay composed.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick loves to read books. [MASK] often spends hours in the library.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a talented musician. [MASK] plays the piano beautifully.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick enjoys hiking. [MASK] finds peace in nature.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a great cook. [MASK] makes delicious meals.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is very creative. [MASK] loves to draw and paint.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick forgot the keys at home. Can you help [MASK] find them?
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick needs that book back. Please return it to [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick lost the phone. Can you call [MASK] to help locate it?
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick cried during the movie. [MASK] found it very touching.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick cooks dinner for the family every night. [MASK] is an excellent cook.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is an artist. [MASK] paintings are displayed in the gallery.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a writer. [MASK] stories are very popular.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a scientist. [MASK] research is groundbreaking.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick loves video games. [MASK] spends hours playing online.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a chef. [MASK] recipes are famous.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick has a unique style. The jacket over there is [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick's car is parked outside. The blue one is [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick's book is on the table. The red cover is [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick's phone is ringing. The one on the desk is [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick's bag is missing. The black one is [MASK].
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick gets emotional when talking about family. [MASK] values close relationships deeply.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick enjoys playing football. [MASK] is the captain of the team.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick fixes things around the house. [MASK] is very handy.
+Lyrick's pronouns are co/co/cos/cos/coself   Lyrick rarely shows emotions. [MASK] prefers to stay composed.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy loves to read books. [MASK] often spends hours in the library.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a talented musician. [MASK] plays the piano beautifully.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy enjoys hiking. [MASK] finds peace in nature.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a great cook. [MASK] makes delicious meals.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is very creative. [MASK] loves to draw and paint.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy forgot the keys at home. Can you help [MASK] find them?
+Kippy's pronouns are co/co/cos/cos/coself   Kippy needs that book back. Please return it to [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy lost the phone. Can you call [MASK] to help locate it?
+Kippy's pronouns are co/co/cos/cos/coself   Kippy cried during the movie. [MASK] found it very touching.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy cooks dinner for the family every night. [MASK] is an excellent cook.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is an artist. [MASK] paintings are displayed in the gallery.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a writer. [MASK] stories are very popular.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a scientist. [MASK] research is groundbreaking.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy loves video games. [MASK] spends hours playing online.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a chef. [MASK] recipes are famous.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy has a unique style. The jacket over there is [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy's car is parked outside. The blue one is [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy's book is on the table. The red cover is [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy's phone is ringing. The one on the desk is [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy's bag is missing. The black one is [MASK].
+Kippy's pronouns are co/co/cos/cos/coself   Kippy is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy gets emotional when talking about family. [MASK] values close relationships deeply.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy enjoys playing football. [MASK] is the captain of the team.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy fixes things around the house. [MASK] is very handy.
+Kippy's pronouns are co/co/cos/cos/coself   Kippy rarely shows emotions. [MASK] prefers to stay composed.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton loves to read books. [MASK] often spends hours in the library.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a talented musician. [MASK] plays the piano beautifully.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton enjoys hiking. [MASK] finds peace in nature.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a great cook. [MASK] makes delicious meals.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is very creative. [MASK] loves to draw and paint.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton forgot the keys at home. Can you help [MASK] find them?
+Kayton's pronouns are co/co/cos/cos/coself   Kayton needs that book back. Please return it to [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton lost the phone. Can you call [MASK] to help locate it?
+Kayton's pronouns are co/co/cos/cos/coself   Kayton cried during the movie. [MASK] found it very touching.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton cooks dinner for the family every night. [MASK] is an excellent cook.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is an artist. [MASK] paintings are displayed in the gallery.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a writer. [MASK] stories are very popular.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a scientist. [MASK] research is groundbreaking.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton loves video games. [MASK] spends hours playing online.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a chef. [MASK] recipes are famous.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton has a unique style. The jacket over there is [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton's car is parked outside. The blue one is [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton's book is on the table. The red cover is [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton's phone is ringing. The one on the desk is [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton's bag is missing. The black one is [MASK].
+Kayton's pronouns are co/co/cos/cos/coself   Kayton is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton gets emotional when talking about family. [MASK] values close relationships deeply.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton enjoys playing football. [MASK] is the captain of the team.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton fixes things around the house. [MASK] is very handy.
+Kayton's pronouns are co/co/cos/cos/coself   Kayton rarely shows emotions. [MASK] prefers to stay composed.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie loves to read books. [MASK] often spends hours in the library.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a talented musician. [MASK] plays the piano beautifully.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie enjoys hiking. [MASK] finds peace in nature.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a great cook. [MASK] makes delicious meals.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is very creative. [MASK] loves to draw and paint.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie forgot the keys at home. Can you help [MASK] find them?
+Gillie's pronouns are co/co/cos/cos/coself   Gillie needs that book back. Please return it to [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie lost the phone. Can you call [MASK] to help locate it?
+Gillie's pronouns are co/co/cos/cos/coself   Gillie cried during the movie. [MASK] found it very touching.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie cooks dinner for the family every night. [MASK] is an excellent cook.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is an artist. [MASK] paintings are displayed in the gallery.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a writer. [MASK] stories are very popular.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a scientist. [MASK] research is groundbreaking.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie loves video games. [MASK] spends hours playing online.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a chef. [MASK] recipes are famous.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie has a unique style. The jacket over there is [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie's car is parked outside. The blue one is [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie's book is on the table. The red cover is [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie's phone is ringing. The one on the desk is [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie's bag is missing. The black one is [MASK].
+Gillie's pronouns are co/co/cos/cos/coself   Gillie is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie gets emotional when talking about family. [MASK] values close relationships deeply.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie enjoys playing football. [MASK] is the captain of the team.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie fixes things around the house. [MASK] is very handy.
+Gillie's pronouns are co/co/cos/cos/coself   Gillie rarely shows emotions. [MASK] prefers to stay composed.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden loves to read books. [MASK] often spends hours in the library.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a talented musician. [MASK] plays the piano beautifully.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden enjoys hiking. [MASK] finds peace in nature.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a great cook. [MASK] makes delicious meals.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is very creative. [MASK] loves to draw and paint.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden forgot the keys at home. Can you help [MASK] find them?
+Lunden's pronouns are co/co/cos/cos/coself   Lunden needs that book back. Please return it to [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden lost the phone. Can you call [MASK] to help locate it?
+Lunden's pronouns are co/co/cos/cos/coself   Lunden cried during the movie. [MASK] found it very touching.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden cooks dinner for the family every night. [MASK] is an excellent cook.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is an artist. [MASK] paintings are displayed in the gallery.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a writer. [MASK] stories are very popular.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a scientist. [MASK] research is groundbreaking.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden loves video games. [MASK] spends hours playing online.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a chef. [MASK] recipes are famous.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden has a unique style. The jacket over there is [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden's car is parked outside. The blue one is [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden's book is on the table. The red cover is [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden's phone is ringing. The one on the desk is [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden's bag is missing. The black one is [MASK].
+Lunden's pronouns are co/co/cos/cos/coself   Lunden is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden gets emotional when talking about family. [MASK] values close relationships deeply.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden enjoys playing football. [MASK] is the captain of the team.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden fixes things around the house. [MASK] is very handy.
+Lunden's pronouns are co/co/cos/cos/coself   Lunden rarely shows emotions. [MASK] prefers to stay composed.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn loves to read books. [MASK] often spends hours in the library.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a talented musician. [MASK] plays the piano beautifully.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn enjoys hiking. [MASK] finds peace in nature.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a great cook. [MASK] makes delicious meals.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is very creative. [MASK] loves to draw and paint.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn forgot the keys at home. Can you help [MASK] find them?
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn needs that book back. Please return it to [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn lost the phone. Can you call [MASK] to help locate it?
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn cried during the movie. [MASK] found it very touching.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn cooks dinner for the family every night. [MASK] is an excellent cook.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is an artist. [MASK] paintings are displayed in the gallery.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a writer. [MASK] stories are very popular.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a scientist. [MASK] research is groundbreaking.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn loves video games. [MASK] spends hours playing online.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a chef. [MASK] recipes are famous.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn has a unique style. The jacket over there is [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn's car is parked outside. The blue one is [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn's book is on the table. The red cover is [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn's phone is ringing. The one on the desk is [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn's bag is missing. The black one is [MASK].
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn gets emotional when talking about family. [MASK] values close relationships deeply.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn enjoys playing football. [MASK] is the captain of the team.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn fixes things around the house. [MASK] is very handy.
+Kaedyn's pronouns are co/co/cos/cos/coself   Kaedyn rarely shows emotions. [MASK] prefers to stay composed.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley loves to read books. [MASK] often spends hours in the library.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a talented musician. [MASK] plays the piano beautifully.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley enjoys hiking. [MASK] finds peace in nature.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a great cook. [MASK] makes delicious meals.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is very creative. [MASK] loves to draw and paint.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley forgot the keys at home. Can you help [MASK] find them?
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley needs that book back. Please return it to [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley lost the phone. Can you call [MASK] to help locate it?
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley cried during the movie. [MASK] found it very touching.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley cooks dinner for the family every night. [MASK] is an excellent cook.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is an artist. [MASK] paintings are displayed in the gallery.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a writer. [MASK] stories are very popular.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a scientist. [MASK] research is groundbreaking.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley loves video games. [MASK] spends hours playing online.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a chef. [MASK] recipes are famous.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley has a unique style. The jacket over there is [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley's car is parked outside. The blue one is [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley's book is on the table. The red cover is [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley's phone is ringing. The one on the desk is [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley's bag is missing. The black one is [MASK].
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley gets emotional when talking about family. [MASK] values close relationships deeply.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley enjoys playing football. [MASK] is the captain of the team.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley fixes things around the house. [MASK] is very handy.
+Mackinley's pronouns are co/co/cos/cos/coself   Mackinley rarely shows emotions. [MASK] prefers to stay composed.
+Da's pronouns are co/co/cos/cos/coself   Da loves to read books. [MASK] often spends hours in the library.
+Da's pronouns are co/co/cos/cos/coself   Da is a talented musician. [MASK] plays the piano beautifully.
+Da's pronouns are co/co/cos/cos/coself   Da enjoys hiking. [MASK] finds peace in nature.
+Da's pronouns are co/co/cos/cos/coself   Da is a great cook. [MASK] makes delicious meals.
+Da's pronouns are co/co/cos/cos/coself   Da is very creative. [MASK] loves to draw and paint.
+Da's pronouns are co/co/cos/cos/coself   Da forgot the keys at home. Can you help [MASK] find them?
+Da's pronouns are co/co/cos/cos/coself   Da needs that book back. Please return it to [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da lost the phone. Can you call [MASK] to help locate it?
+Da's pronouns are co/co/cos/cos/coself   Da cried during the movie. [MASK] found it very touching.
+Da's pronouns are co/co/cos/cos/coself   Da cooks dinner for the family every night. [MASK] is an excellent cook.
+Da's pronouns are co/co/cos/cos/coself   Da is an artist. [MASK] paintings are displayed in the gallery.
+Da's pronouns are co/co/cos/cos/coself   Da is a writer. [MASK] stories are very popular.
+Da's pronouns are co/co/cos/cos/coself   Da is a scientist. [MASK] research is groundbreaking.
+Da's pronouns are co/co/cos/cos/coself   Da loves video games. [MASK] spends hours playing online.
+Da's pronouns are co/co/cos/cos/coself   Da is a chef. [MASK] recipes are famous.
+Da's pronouns are co/co/cos/cos/coself   Da has a unique style. The jacket over there is [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da's car is parked outside. The blue one is [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da's book is on the table. The red cover is [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da's phone is ringing. The one on the desk is [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da's bag is missing. The black one is [MASK].
+Da's pronouns are co/co/cos/cos/coself   Da is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Da's pronouns are co/co/cos/cos/coself   Da gets emotional when talking about family. [MASK] values close relationships deeply.
+Da's pronouns are co/co/cos/cos/coself   Da enjoys playing football. [MASK] is the captain of the team.
+Da's pronouns are co/co/cos/cos/coself   Da fixes things around the house. [MASK] is very handy.
+Da's pronouns are co/co/cos/cos/coself   Da rarely shows emotions. [MASK] prefers to stay composed.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx loves to read books. [MASK] often spends hours in the library.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a talented musician. [MASK] plays the piano beautifully.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx enjoys hiking. [MASK] finds peace in nature.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a great cook. [MASK] makes delicious meals.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is very creative. [MASK] loves to draw and paint.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx forgot the keys at home. Can you help [MASK] find them?
+Onyx's pronouns are co/co/cos/cos/coself   Onyx needs that book back. Please return it to [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx lost the phone. Can you call [MASK] to help locate it?
+Onyx's pronouns are co/co/cos/cos/coself   Onyx cried during the movie. [MASK] found it very touching.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx cooks dinner for the family every night. [MASK] is an excellent cook.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is an artist. [MASK] paintings are displayed in the gallery.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a writer. [MASK] stories are very popular.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a scientist. [MASK] research is groundbreaking.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx loves video games. [MASK] spends hours playing online.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a chef. [MASK] recipes are famous.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx has a unique style. The jacket over there is [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx's car is parked outside. The blue one is [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx's book is on the table. The red cover is [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx's phone is ringing. The one on the desk is [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx's bag is missing. The black one is [MASK].
+Onyx's pronouns are co/co/cos/cos/coself   Onyx is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx gets emotional when talking about family. [MASK] values close relationships deeply.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx enjoys playing football. [MASK] is the captain of the team.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx fixes things around the house. [MASK] is very handy.
+Onyx's pronouns are co/co/cos/cos/coself   Onyx rarely shows emotions. [MASK] prefers to stay composed.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko loves to read books. [MASK] often spends hours in the library.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a talented musician. [MASK] plays the piano beautifully.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko enjoys hiking. [MASK] finds peace in nature.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a great cook. [MASK] makes delicious meals.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is very creative. [MASK] loves to draw and paint.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko forgot the keys at home. Can you help [MASK] find them?
+Meiko's pronouns are co/co/cos/cos/coself   Meiko needs that book back. Please return it to [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko lost the phone. Can you call [MASK] to help locate it?
+Meiko's pronouns are co/co/cos/cos/coself   Meiko cried during the movie. [MASK] found it very touching.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko cooks dinner for the family every night. [MASK] is an excellent cook.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is an artist. [MASK] paintings are displayed in the gallery.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a writer. [MASK] stories are very popular.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a scientist. [MASK] research is groundbreaking.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko loves video games. [MASK] spends hours playing online.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a chef. [MASK] recipes are famous.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko has a unique style. The jacket over there is [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko's car is parked outside. The blue one is [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko's book is on the table. The red cover is [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko's phone is ringing. The one on the desk is [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko's bag is missing. The black one is [MASK].
+Meiko's pronouns are co/co/cos/cos/coself   Meiko is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko gets emotional when talking about family. [MASK] values close relationships deeply.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko enjoys playing football. [MASK] is the captain of the team.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko fixes things around the house. [MASK] is very handy.
+Meiko's pronouns are co/co/cos/cos/coself   Meiko rarely shows emotions. [MASK] prefers to stay composed.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton loves to read books. [MASK] often spends hours in the library.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a talented musician. [MASK] plays the piano beautifully.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton enjoys hiking. [MASK] finds peace in nature.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a great cook. [MASK] makes delicious meals.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is very creative. [MASK] loves to draw and paint.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton forgot the keys at home. Can you help [MASK] find them?
+Peyton's pronouns are co/co/cos/cos/coself   Peyton needs that book back. Please return it to [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton lost the phone. Can you call [MASK] to help locate it?
+Peyton's pronouns are co/co/cos/cos/coself   Peyton cried during the movie. [MASK] found it very touching.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton cooks dinner for the family every night. [MASK] is an excellent cook.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is an artist. [MASK] paintings are displayed in the gallery.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a writer. [MASK] stories are very popular.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a scientist. [MASK] research is groundbreaking.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton loves video games. [MASK] spends hours playing online.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a chef. [MASK] recipes are famous.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton has a unique style. The jacket over there is [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton's car is parked outside. The blue one is [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton's book is on the table. The red cover is [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton's phone is ringing. The one on the desk is [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton's bag is missing. The black one is [MASK].
+Peyton's pronouns are co/co/cos/cos/coself   Peyton is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton gets emotional when talking about family. [MASK] values close relationships deeply.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton enjoys playing football. [MASK] is the captain of the team.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton fixes things around the house. [MASK] is very handy.
+Peyton's pronouns are co/co/cos/cos/coself   Peyton rarely shows emotions. [MASK] prefers to stay composed.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor loves to read books. [MASK] often spends hours in the library.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a talented musician. [MASK] plays the piano beautifully.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor enjoys hiking. [MASK] finds peace in nature.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a great cook. [MASK] makes delicious meals.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is very creative. [MASK] loves to draw and paint.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor forgot the keys at home. Can you help [MASK] find them?
+Caylor's pronouns are co/co/cos/cos/coself   Caylor needs that book back. Please return it to [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor lost the phone. Can you call [MASK] to help locate it?
+Caylor's pronouns are co/co/cos/cos/coself   Caylor cried during the movie. [MASK] found it very touching.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor cooks dinner for the family every night. [MASK] is an excellent cook.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is an artist. [MASK] paintings are displayed in the gallery.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a writer. [MASK] stories are very popular.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a scientist. [MASK] research is groundbreaking.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor loves video games. [MASK] spends hours playing online.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a chef. [MASK] recipes are famous.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor has a unique style. The jacket over there is [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor's car is parked outside. The blue one is [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor's book is on the table. The red cover is [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor's phone is ringing. The one on the desk is [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor's bag is missing. The black one is [MASK].
+Caylor's pronouns are co/co/cos/cos/coself   Caylor is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor gets emotional when talking about family. [MASK] values close relationships deeply.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor enjoys playing football. [MASK] is the captain of the team.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor fixes things around the house. [MASK] is very handy.
+Caylor's pronouns are co/co/cos/cos/coself   Caylor rarely shows emotions. [MASK] prefers to stay composed.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari loves to read books. [MASK] often spends hours in the library.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a talented musician. [MASK] plays the piano beautifully.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari enjoys hiking. [MASK] finds peace in nature.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a great cook. [MASK] makes delicious meals.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is very creative. [MASK] loves to draw and paint.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari forgot the keys at home. Can you help [MASK] find them?
+Aamari's pronouns are co/co/cos/cos/coself   Aamari needs that book back. Please return it to [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari lost the phone. Can you call [MASK] to help locate it?
+Aamari's pronouns are co/co/cos/cos/coself   Aamari cried during the movie. [MASK] found it very touching.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari cooks dinner for the family every night. [MASK] is an excellent cook.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is an artist. [MASK] paintings are displayed in the gallery.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a writer. [MASK] stories are very popular.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a scientist. [MASK] research is groundbreaking.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari loves video games. [MASK] spends hours playing online.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a chef. [MASK] recipes are famous.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari has a unique style. The jacket over there is [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari's car is parked outside. The blue one is [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari's book is on the table. The red cover is [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari's phone is ringing. The one on the desk is [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari's bag is missing. The black one is [MASK].
+Aamari's pronouns are co/co/cos/cos/coself   Aamari is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari gets emotional when talking about family. [MASK] values close relationships deeply.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari enjoys playing football. [MASK] is the captain of the team.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari fixes things around the house. [MASK] is very handy.
+Aamari's pronouns are co/co/cos/cos/coself   Aamari rarely shows emotions. [MASK] prefers to stay composed.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris loves to read books. [MASK] often spends hours in the library.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a talented musician. [MASK] plays the piano beautifully.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris enjoys hiking. [MASK] finds peace in nature.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a great cook. [MASK] makes delicious meals.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is very creative. [MASK] loves to draw and paint.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris forgot the keys at home. Can you help [MASK] find them?
+Osiris's pronouns are co/co/cos/cos/coself   Osiris needs that book back. Please return it to [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris lost the phone. Can you call [MASK] to help locate it?
+Osiris's pronouns are co/co/cos/cos/coself   Osiris cried during the movie. [MASK] found it very touching.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris cooks dinner for the family every night. [MASK] is an excellent cook.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is an artist. [MASK] paintings are displayed in the gallery.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a writer. [MASK] stories are very popular.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a scientist. [MASK] research is groundbreaking.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris loves video games. [MASK] spends hours playing online.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a chef. [MASK] recipes are famous.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris has a unique style. The jacket over there is [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris's car is parked outside. The blue one is [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris's book is on the table. The red cover is [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris's phone is ringing. The one on the desk is [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris's bag is missing. The black one is [MASK].
+Osiris's pronouns are co/co/cos/cos/coself   Osiris is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris gets emotional when talking about family. [MASK] values close relationships deeply.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris enjoys playing football. [MASK] is the captain of the team.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris fixes things around the house. [MASK] is very handy.
+Osiris's pronouns are co/co/cos/cos/coself   Osiris rarely shows emotions. [MASK] prefers to stay composed.

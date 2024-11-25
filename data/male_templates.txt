@@ -1,0 +1,1000 @@
+James's pronouns are he/him/his/his/himself   James loves to read books. [MASK] often spends hours in the library.
+James's pronouns are he/him/his/his/himself   James is a talented musician. [MASK] plays the piano beautifully.
+James's pronouns are he/him/his/his/himself   James enjoys hiking. [MASK] finds peace in nature.
+James's pronouns are he/him/his/his/himself   James is a great cook. [MASK] makes delicious meals.
+James's pronouns are he/him/his/his/himself   James is very creative. [MASK] loves to draw and paint.
+James's pronouns are he/him/his/his/himself   James forgot the keys at home. Can you help [MASK] find them?
+James's pronouns are he/him/his/his/himself   James needs that book back. Please return it to [MASK].
+James's pronouns are he/him/his/his/himself   James lost the phone. Can you call [MASK] to help locate it?
+James's pronouns are he/him/his/his/himself   James cried during the movie. [MASK] found it very touching.
+James's pronouns are he/him/his/his/himself   James cooks dinner for the family every night. [MASK] is an excellent cook.
+James's pronouns are he/him/his/his/himself   James is an artist. [MASK] paintings are displayed in the gallery.
+James's pronouns are he/him/his/his/himself   James is a writer. [MASK] stories are very popular.
+James's pronouns are he/him/his/his/himself   James is a scientist. [MASK] research is groundbreaking.
+James's pronouns are he/him/his/his/himself   James loves video games. [MASK] spends hours playing online.
+James's pronouns are he/him/his/his/himself   James is a chef. [MASK] recipes are famous.
+James's pronouns are he/him/his/his/himself   James has a unique style. The jacket over there is [MASK].
+James's pronouns are he/him/his/his/himself   James's car is parked outside. The blue one is [MASK].
+James's pronouns are he/him/his/his/himself   James's book is on the table. The red cover is [MASK].
+James's pronouns are he/him/his/his/himself   James's phone is ringing. The one on the desk is [MASK].
+James's pronouns are he/him/his/his/himself   James's bag is missing. The black one is [MASK].
+James's pronouns are he/him/his/his/himself   James is a CEO. Everyone respects [MASK] for [MASK] leadership.
+James's pronouns are he/him/his/his/himself   James gets emotional when talking about family. [MASK] values close relationships deeply.
+James's pronouns are he/him/his/his/himself   James enjoys playing football. [MASK] is the captain of the team.
+James's pronouns are he/him/his/his/himself   James fixes things around the house. [MASK] is very handy.
+James's pronouns are he/him/his/his/himself   James rarely shows emotions. [MASK] prefers to stay composed.
+Robert's pronouns are he/him/his/his/himself   Robert loves to read books. [MASK] often spends hours in the library.
+Robert's pronouns are he/him/his/his/himself   Robert is a talented musician. [MASK] plays the piano beautifully.
+Robert's pronouns are he/him/his/his/himself   Robert enjoys hiking. [MASK] finds peace in nature.
+Robert's pronouns are he/him/his/his/himself   Robert is a great cook. [MASK] makes delicious meals.
+Robert's pronouns are he/him/his/his/himself   Robert is very creative. [MASK] loves to draw and paint.
+Robert's pronouns are he/him/his/his/himself   Robert forgot the keys at home. Can you help [MASK] find them?
+Robert's pronouns are he/him/his/his/himself   Robert needs that book back. Please return it to [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert lost the phone. Can you call [MASK] to help locate it?
+Robert's pronouns are he/him/his/his/himself   Robert cried during the movie. [MASK] found it very touching.
+Robert's pronouns are he/him/his/his/himself   Robert cooks dinner for the family every night. [MASK] is an excellent cook.
+Robert's pronouns are he/him/his/his/himself   Robert is an artist. [MASK] paintings are displayed in the gallery.
+Robert's pronouns are he/him/his/his/himself   Robert is a writer. [MASK] stories are very popular.
+Robert's pronouns are he/him/his/his/himself   Robert is a scientist. [MASK] research is groundbreaking.
+Robert's pronouns are he/him/his/his/himself   Robert loves video games. [MASK] spends hours playing online.
+Robert's pronouns are he/him/his/his/himself   Robert is a chef. [MASK] recipes are famous.
+Robert's pronouns are he/him/his/his/himself   Robert has a unique style. The jacket over there is [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert's car is parked outside. The blue one is [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert's book is on the table. The red cover is [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert's phone is ringing. The one on the desk is [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert's bag is missing. The black one is [MASK].
+Robert's pronouns are he/him/his/his/himself   Robert is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Robert's pronouns are he/him/his/his/himself   Robert gets emotional when talking about family. [MASK] values close relationships deeply.
+Robert's pronouns are he/him/his/his/himself   Robert enjoys playing football. [MASK] is the captain of the team.
+Robert's pronouns are he/him/his/his/himself   Robert fixes things around the house. [MASK] is very handy.
+Robert's pronouns are he/him/his/his/himself   Robert rarely shows emotions. [MASK] prefers to stay composed.
+John's pronouns are he/him/his/his/himself   John loves to read books. [MASK] often spends hours in the library.
+John's pronouns are he/him/his/his/himself   John is a talented musician. [MASK] plays the piano beautifully.
+John's pronouns are he/him/his/his/himself   John enjoys hiking. [MASK] finds peace in nature.
+John's pronouns are he/him/his/his/himself   John is a great cook. [MASK] makes delicious meals.
+John's pronouns are he/him/his/his/himself   John is very creative. [MASK] loves to draw and paint.
+John's pronouns are he/him/his/his/himself   John forgot the keys at home. Can you help [MASK] find them?
+John's pronouns are he/him/his/his/himself   John needs that book back. Please return it to [MASK].
+John's pronouns are he/him/his/his/himself   John lost the phone. Can you call [MASK] to help locate it?
+John's pronouns are he/him/his/his/himself   John cried during the movie. [MASK] found it very touching.
+John's pronouns are he/him/his/his/himself   John cooks dinner for the family every night. [MASK] is an excellent cook.
+John's pronouns are he/him/his/his/himself   John is an artist. [MASK] paintings are displayed in the gallery.
+John's pronouns are he/him/his/his/himself   John is a writer. [MASK] stories are very popular.
+John's pronouns are he/him/his/his/himself   John is a scientist. [MASK] research is groundbreaking.
+John's pronouns are he/him/his/his/himself   John loves video games. [MASK] spends hours playing online.
+John's pronouns are he/him/his/his/himself   John is a chef. [MASK] recipes are famous.
+John's pronouns are he/him/his/his/himself   John has a unique style. The jacket over there is [MASK].
+John's pronouns are he/him/his/his/himself   John's car is parked outside. The blue one is [MASK].
+John's pronouns are he/him/his/his/himself   John's book is on the table. The red cover is [MASK].
+John's pronouns are he/him/his/his/himself   John's phone is ringing. The one on the desk is [MASK].
+John's pronouns are he/him/his/his/himself   John's bag is missing. The black one is [MASK].
+John's pronouns are he/him/his/his/himself   John is a CEO. Everyone respects [MASK] for [MASK] leadership.
+John's pronouns are he/him/his/his/himself   John gets emotional when talking about family. [MASK] values close relationships deeply.
+John's pronouns are he/him/his/his/himself   John enjoys playing football. [MASK] is the captain of the team.
+John's pronouns are he/him/his/his/himself   John fixes things around the house. [MASK] is very handy.
+John's pronouns are he/him/his/his/himself   John rarely shows emotions. [MASK] prefers to stay composed.
+Michael's pronouns are he/him/his/his/himself   Michael loves to read books. [MASK] often spends hours in the library.
+Michael's pronouns are he/him/his/his/himself   Michael is a talented musician. [MASK] plays the piano beautifully.
+Michael's pronouns are he/him/his/his/himself   Michael enjoys hiking. [MASK] finds peace in nature.
+Michael's pronouns are he/him/his/his/himself   Michael is a great cook. [MASK] makes delicious meals.
+Michael's pronouns are he/him/his/his/himself   Michael is very creative. [MASK] loves to draw and paint.
+Michael's pronouns are he/him/his/his/himself   Michael forgot the keys at home. Can you help [MASK] find them?
+Michael's pronouns are he/him/his/his/himself   Michael needs that book back. Please return it to [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael lost the phone. Can you call [MASK] to help locate it?
+Michael's pronouns are he/him/his/his/himself   Michael cried during the movie. [MASK] found it very touching.
+Michael's pronouns are he/him/his/his/himself   Michael cooks dinner for the family every night. [MASK] is an excellent cook.
+Michael's pronouns are he/him/his/his/himself   Michael is an artist. [MASK] paintings are displayed in the gallery.
+Michael's pronouns are he/him/his/his/himself   Michael is a writer. [MASK] stories are very popular.
+Michael's pronouns are he/him/his/his/himself   Michael is a scientist. [MASK] research is groundbreaking.
+Michael's pronouns are he/him/his/his/himself   Michael loves video games. [MASK] spends hours playing online.
+Michael's pronouns are he/him/his/his/himself   Michael is a chef. [MASK] recipes are famous.
+Michael's pronouns are he/him/his/his/himself   Michael has a unique style. The jacket over there is [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael's car is parked outside. The blue one is [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael's book is on the table. The red cover is [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael's phone is ringing. The one on the desk is [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael's bag is missing. The black one is [MASK].
+Michael's pronouns are he/him/his/his/himself   Michael is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Michael's pronouns are he/him/his/his/himself   Michael gets emotional when talking about family. [MASK] values close relationships deeply.
+Michael's pronouns are he/him/his/his/himself   Michael enjoys playing football. [MASK] is the captain of the team.
+Michael's pronouns are he/him/his/his/himself   Michael fixes things around the house. [MASK] is very handy.
+Michael's pronouns are he/him/his/his/himself   Michael rarely shows emotions. [MASK] prefers to stay composed.
+David's pronouns are he/him/his/his/himself   David loves to read books. [MASK] often spends hours in the library.
+David's pronouns are he/him/his/his/himself   David is a talented musician. [MASK] plays the piano beautifully.
+David's pronouns are he/him/his/his/himself   David enjoys hiking. [MASK] finds peace in nature.
+David's pronouns are he/him/his/his/himself   David is a great cook. [MASK] makes delicious meals.
+David's pronouns are he/him/his/his/himself   David is very creative. [MASK] loves to draw and paint.
+David's pronouns are he/him/his/his/himself   David forgot the keys at home. Can you help [MASK] find them?
+David's pronouns are he/him/his/his/himself   David needs that book back. Please return it to [MASK].
+David's pronouns are he/him/his/his/himself   David lost the phone. Can you call [MASK] to help locate it?
+David's pronouns are he/him/his/his/himself   David cried during the movie. [MASK] found it very touching.
+David's pronouns are he/him/his/his/himself   David cooks dinner for the family every night. [MASK] is an excellent cook.
+David's pronouns are he/him/his/his/himself   David is an artist. [MASK] paintings are displayed in the gallery.
+David's pronouns are he/him/his/his/himself   David is a writer. [MASK] stories are very popular.
+David's pronouns are he/him/his/his/himself   David is a scientist. [MASK] research is groundbreaking.
+David's pronouns are he/him/his/his/himself   David loves video games. [MASK] spends hours playing online.
+David's pronouns are he/him/his/his/himself   David is a chef. [MASK] recipes are famous.
+David's pronouns are he/him/his/his/himself   David has a unique style. The jacket over there is [MASK].
+David's pronouns are he/him/his/his/himself   David's car is parked outside. The blue one is [MASK].
+David's pronouns are he/him/his/his/himself   David's book is on the table. The red cover is [MASK].
+David's pronouns are he/him/his/his/himself   David's phone is ringing. The one on the desk is [MASK].
+David's pronouns are he/him/his/his/himself   David's bag is missing. The black one is [MASK].
+David's pronouns are he/him/his/his/himself   David is a CEO. Everyone respects [MASK] for [MASK] leadership.
+David's pronouns are he/him/his/his/himself   David gets emotional when talking about family. [MASK] values close relationships deeply.
+David's pronouns are he/him/his/his/himself   David enjoys playing football. [MASK] is the captain of the team.
+David's pronouns are he/him/his/his/himself   David fixes things around the house. [MASK] is very handy.
+David's pronouns are he/him/his/his/himself   David rarely shows emotions. [MASK] prefers to stay composed.
+William's pronouns are he/him/his/his/himself   William loves to read books. [MASK] often spends hours in the library.
+William's pronouns are he/him/his/his/himself   William is a talented musician. [MASK] plays the piano beautifully.
+William's pronouns are he/him/his/his/himself   William enjoys hiking. [MASK] finds peace in nature.
+William's pronouns are he/him/his/his/himself   William is a great cook. [MASK] makes delicious meals.
+William's pronouns are he/him/his/his/himself   William is very creative. [MASK] loves to draw and paint.
+William's pronouns are he/him/his/his/himself   William forgot the keys at home. Can you help [MASK] find them?
+William's pronouns are he/him/his/his/himself   William needs that book back. Please return it to [MASK].
+William's pronouns are he/him/his/his/himself   William lost the phone. Can you call [MASK] to help locate it?
+William's pronouns are he/him/his/his/himself   William cried during the movie. [MASK] found it very touching.
+William's pronouns are he/him/his/his/himself   William cooks dinner for the family every night. [MASK] is an excellent cook.
+William's pronouns are he/him/his/his/himself   William is an artist. [MASK] paintings are displayed in the gallery.
+William's pronouns are he/him/his/his/himself   William is a writer. [MASK] stories are very popular.
+William's pronouns are he/him/his/his/himself   William is a scientist. [MASK] research is groundbreaking.
+William's pronouns are he/him/his/his/himself   William loves video games. [MASK] spends hours playing online.
+William's pronouns are he/him/his/his/himself   William is a chef. [MASK] recipes are famous.
+William's pronouns are he/him/his/his/himself   William has a unique style. The jacket over there is [MASK].
+William's pronouns are he/him/his/his/himself   William's car is parked outside. The blue one is [MASK].
+William's pronouns are he/him/his/his/himself   William's book is on the table. The red cover is [MASK].
+William's pronouns are he/him/his/his/himself   William's phone is ringing. The one on the desk is [MASK].
+William's pronouns are he/him/his/his/himself   William's bag is missing. The black one is [MASK].
+William's pronouns are he/him/his/his/himself   William is a CEO. Everyone respects [MASK] for [MASK] leadership.
+William's pronouns are he/him/his/his/himself   William gets emotional when talking about family. [MASK] values close relationships deeply.
+William's pronouns are he/him/his/his/himself   William enjoys playing football. [MASK] is the captain of the team.
+William's pronouns are he/him/his/his/himself   William fixes things around the house. [MASK] is very handy.
+William's pronouns are he/him/his/his/himself   William rarely shows emotions. [MASK] prefers to stay composed.
+Richard's pronouns are he/him/his/his/himself   Richard loves to read books. [MASK] often spends hours in the library.
+Richard's pronouns are he/him/his/his/himself   Richard is a talented musician. [MASK] plays the piano beautifully.
+Richard's pronouns are he/him/his/his/himself   Richard enjoys hiking. [MASK] finds peace in nature.
+Richard's pronouns are he/him/his/his/himself   Richard is a great cook. [MASK] makes delicious meals.
+Richard's pronouns are he/him/his/his/himself   Richard is very creative. [MASK] loves to draw and paint.
+Richard's pronouns are he/him/his/his/himself   Richard forgot the keys at home. Can you help [MASK] find them?
+Richard's pronouns are he/him/his/his/himself   Richard needs that book back. Please return it to [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard lost the phone. Can you call [MASK] to help locate it?
+Richard's pronouns are he/him/his/his/himself   Richard cried during the movie. [MASK] found it very touching.
+Richard's pronouns are he/him/his/his/himself   Richard cooks dinner for the family every night. [MASK] is an excellent cook.
+Richard's pronouns are he/him/his/his/himself   Richard is an artist. [MASK] paintings are displayed in the gallery.
+Richard's pronouns are he/him/his/his/himself   Richard is a writer. [MASK] stories are very popular.
+Richard's pronouns are he/him/his/his/himself   Richard is a scientist. [MASK] research is groundbreaking.
+Richard's pronouns are he/him/his/his/himself   Richard loves video games. [MASK] spends hours playing online.
+Richard's pronouns are he/him/his/his/himself   Richard is a chef. [MASK] recipes are famous.
+Richard's pronouns are he/him/his/his/himself   Richard has a unique style. The jacket over there is [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard's car is parked outside. The blue one is [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard's book is on the table. The red cover is [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard's phone is ringing. The one on the desk is [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard's bag is missing. The black one is [MASK].
+Richard's pronouns are he/him/his/his/himself   Richard is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Richard's pronouns are he/him/his/his/himself   Richard gets emotional when talking about family. [MASK] values close relationships deeply.
+Richard's pronouns are he/him/his/his/himself   Richard enjoys playing football. [MASK] is the captain of the team.
+Richard's pronouns are he/him/his/his/himself   Richard fixes things around the house. [MASK] is very handy.
+Richard's pronouns are he/him/his/his/himself   Richard rarely shows emotions. [MASK] prefers to stay composed.
+Joseph's pronouns are he/him/his/his/himself   Joseph loves to read books. [MASK] often spends hours in the library.
+Joseph's pronouns are he/him/his/his/himself   Joseph is a talented musician. [MASK] plays the piano beautifully.
+Joseph's pronouns are he/him/his/his/himself   Joseph enjoys hiking. [MASK] finds peace in nature.
+Joseph's pronouns are he/him/his/his/himself   Joseph is a great cook. [MASK] makes delicious meals.
+Joseph's pronouns are he/him/his/his/himself   Joseph is very creative. [MASK] loves to draw and paint.
+Joseph's pronouns are he/him/his/his/himself   Joseph forgot the keys at home. Can you help [MASK] find them?
+Joseph's pronouns are he/him/his/his/himself   Joseph needs that book back. Please return it to [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph lost the phone. Can you call [MASK] to help locate it?
+Joseph's pronouns are he/him/his/his/himself   Joseph cried during the movie. [MASK] found it very touching.
+Joseph's pronouns are he/him/his/his/himself   Joseph cooks dinner for the family every night. [MASK] is an excellent cook.
+Joseph's pronouns are he/him/his/his/himself   Joseph is an artist. [MASK] paintings are displayed in the gallery.
+Joseph's pronouns are he/him/his/his/himself   Joseph is a writer. [MASK] stories are very popular.
+Joseph's pronouns are he/him/his/his/himself   Joseph is a scientist. [MASK] research is groundbreaking.
+Joseph's pronouns are he/him/his/his/himself   Joseph loves video games. [MASK] spends hours playing online.
+Joseph's pronouns are he/him/his/his/himself   Joseph is a chef. [MASK] recipes are famous.
+Joseph's pronouns are he/him/his/his/himself   Joseph has a unique style. The jacket over there is [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph's car is parked outside. The blue one is [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph's book is on the table. The red cover is [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph's phone is ringing. The one on the desk is [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph's bag is missing. The black one is [MASK].
+Joseph's pronouns are he/him/his/his/himself   Joseph is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Joseph's pronouns are he/him/his/his/himself   Joseph gets emotional when talking about family. [MASK] values close relationships deeply.
+Joseph's pronouns are he/him/his/his/himself   Joseph enjoys playing football. [MASK] is the captain of the team.
+Joseph's pronouns are he/him/his/his/himself   Joseph fixes things around the house. [MASK] is very handy.
+Joseph's pronouns are he/him/his/his/himself   Joseph rarely shows emotions. [MASK] prefers to stay composed.
+Thomas's pronouns are he/him/his/his/himself   Thomas loves to read books. [MASK] often spends hours in the library.
+Thomas's pronouns are he/him/his/his/himself   Thomas is a talented musician. [MASK] plays the piano beautifully.
+Thomas's pronouns are he/him/his/his/himself   Thomas enjoys hiking. [MASK] finds peace in nature.
+Thomas's pronouns are he/him/his/his/himself   Thomas is a great cook. [MASK] makes delicious meals.
+Thomas's pronouns are he/him/his/his/himself   Thomas is very creative. [MASK] loves to draw and paint.
+Thomas's pronouns are he/him/his/his/himself   Thomas forgot the keys at home. Can you help [MASK] find them?
+Thomas's pronouns are he/him/his/his/himself   Thomas needs that book back. Please return it to [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas lost the phone. Can you call [MASK] to help locate it?
+Thomas's pronouns are he/him/his/his/himself   Thomas cried during the movie. [MASK] found it very touching.
+Thomas's pronouns are he/him/his/his/himself   Thomas cooks dinner for the family every night. [MASK] is an excellent cook.
+Thomas's pronouns are he/him/his/his/himself   Thomas is an artist. [MASK] paintings are displayed in the gallery.
+Thomas's pronouns are he/him/his/his/himself   Thomas is a writer. [MASK] stories are very popular.
+Thomas's pronouns are he/him/his/his/himself   Thomas is a scientist. [MASK] research is groundbreaking.
+Thomas's pronouns are he/him/his/his/himself   Thomas loves video games. [MASK] spends hours playing online.
+Thomas's pronouns are he/him/his/his/himself   Thomas is a chef. [MASK] recipes are famous.
+Thomas's pronouns are he/him/his/his/himself   Thomas has a unique style. The jacket over there is [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas's car is parked outside. The blue one is [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas's book is on the table. The red cover is [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas's phone is ringing. The one on the desk is [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas's bag is missing. The black one is [MASK].
+Thomas's pronouns are he/him/his/his/himself   Thomas is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Thomas's pronouns are he/him/his/his/himself   Thomas gets emotional when talking about family. [MASK] values close relationships deeply.
+Thomas's pronouns are he/him/his/his/himself   Thomas enjoys playing football. [MASK] is the captain of the team.
+Thomas's pronouns are he/him/his/his/himself   Thomas fixes things around the house. [MASK] is very handy.
+Thomas's pronouns are he/him/his/his/himself   Thomas rarely shows emotions. [MASK] prefers to stay composed.
+Charles's pronouns are he/him/his/his/himself   Charles loves to read books. [MASK] often spends hours in the library.
+Charles's pronouns are he/him/his/his/himself   Charles is a talented musician. [MASK] plays the piano beautifully.
+Charles's pronouns are he/him/his/his/himself   Charles enjoys hiking. [MASK] finds peace in nature.
+Charles's pronouns are he/him/his/his/himself   Charles is a great cook. [MASK] makes delicious meals.
+Charles's pronouns are he/him/his/his/himself   Charles is very creative. [MASK] loves to draw and paint.
+Charles's pronouns are he/him/his/his/himself   Charles forgot the keys at home. Can you help [MASK] find them?
+Charles's pronouns are he/him/his/his/himself   Charles needs that book back. Please return it to [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles lost the phone. Can you call [MASK] to help locate it?
+Charles's pronouns are he/him/his/his/himself   Charles cried during the movie. [MASK] found it very touching.
+Charles's pronouns are he/him/his/his/himself   Charles cooks dinner for the family every night. [MASK] is an excellent cook.
+Charles's pronouns are he/him/his/his/himself   Charles is an artist. [MASK] paintings are displayed in the gallery.
+Charles's pronouns are he/him/his/his/himself   Charles is a writer. [MASK] stories are very popular.
+Charles's pronouns are he/him/his/his/himself   Charles is a scientist. [MASK] research is groundbreaking.
+Charles's pronouns are he/him/his/his/himself   Charles loves video games. [MASK] spends hours playing online.
+Charles's pronouns are he/him/his/his/himself   Charles is a chef. [MASK] recipes are famous.
+Charles's pronouns are he/him/his/his/himself   Charles has a unique style. The jacket over there is [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles's car is parked outside. The blue one is [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles's book is on the table. The red cover is [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles's phone is ringing. The one on the desk is [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles's bag is missing. The black one is [MASK].
+Charles's pronouns are he/him/his/his/himself   Charles is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Charles's pronouns are he/him/his/his/himself   Charles gets emotional when talking about family. [MASK] values close relationships deeply.
+Charles's pronouns are he/him/his/his/himself   Charles enjoys playing football. [MASK] is the captain of the team.
+Charles's pronouns are he/him/his/his/himself   Charles fixes things around the house. [MASK] is very handy.
+Charles's pronouns are he/him/his/his/himself   Charles rarely shows emotions. [MASK] prefers to stay composed.
+Christopher's pronouns are he/him/his/his/himself   Christopher loves to read books. [MASK] often spends hours in the library.
+Christopher's pronouns are he/him/his/his/himself   Christopher is a talented musician. [MASK] plays the piano beautifully.
+Christopher's pronouns are he/him/his/his/himself   Christopher enjoys hiking. [MASK] finds peace in nature.
+Christopher's pronouns are he/him/his/his/himself   Christopher is a great cook. [MASK] makes delicious meals.
+Christopher's pronouns are he/him/his/his/himself   Christopher is very creative. [MASK] loves to draw and paint.
+Christopher's pronouns are he/him/his/his/himself   Christopher forgot the keys at home. Can you help [MASK] find them?
+Christopher's pronouns are he/him/his/his/himself   Christopher needs that book back. Please return it to [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher lost the phone. Can you call [MASK] to help locate it?
+Christopher's pronouns are he/him/his/his/himself   Christopher cried during the movie. [MASK] found it very touching.
+Christopher's pronouns are he/him/his/his/himself   Christopher cooks dinner for the family every night. [MASK] is an excellent cook.
+Christopher's pronouns are he/him/his/his/himself   Christopher is an artist. [MASK] paintings are displayed in the gallery.
+Christopher's pronouns are he/him/his/his/himself   Christopher is a writer. [MASK] stories are very popular.
+Christopher's pronouns are he/him/his/his/himself   Christopher is a scientist. [MASK] research is groundbreaking.
+Christopher's pronouns are he/him/his/his/himself   Christopher loves video games. [MASK] spends hours playing online.
+Christopher's pronouns are he/him/his/his/himself   Christopher is a chef. [MASK] recipes are famous.
+Christopher's pronouns are he/him/his/his/himself   Christopher has a unique style. The jacket over there is [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher's car is parked outside. The blue one is [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher's book is on the table. The red cover is [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher's phone is ringing. The one on the desk is [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher's bag is missing. The black one is [MASK].
+Christopher's pronouns are he/him/his/his/himself   Christopher is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Christopher's pronouns are he/him/his/his/himself   Christopher gets emotional when talking about family. [MASK] values close relationships deeply.
+Christopher's pronouns are he/him/his/his/himself   Christopher enjoys playing football. [MASK] is the captain of the team.
+Christopher's pronouns are he/him/his/his/himself   Christopher fixes things around the house. [MASK] is very handy.
+Christopher's pronouns are he/him/his/his/himself   Christopher rarely shows emotions. [MASK] prefers to stay composed.
+Daniel's pronouns are he/him/his/his/himself   Daniel loves to read books. [MASK] often spends hours in the library.
+Daniel's pronouns are he/him/his/his/himself   Daniel is a talented musician. [MASK] plays the piano beautifully.
+Daniel's pronouns are he/him/his/his/himself   Daniel enjoys hiking. [MASK] finds peace in nature.
+Daniel's pronouns are he/him/his/his/himself   Daniel is a great cook. [MASK] makes delicious meals.
+Daniel's pronouns are he/him/his/his/himself   Daniel is very creative. [MASK] loves to draw and paint.
+Daniel's pronouns are he/him/his/his/himself   Daniel forgot the keys at home. Can you help [MASK] find them?
+Daniel's pronouns are he/him/his/his/himself   Daniel needs that book back. Please return it to [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel lost the phone. Can you call [MASK] to help locate it?
+Daniel's pronouns are he/him/his/his/himself   Daniel cried during the movie. [MASK] found it very touching.
+Daniel's pronouns are he/him/his/his/himself   Daniel cooks dinner for the family every night. [MASK] is an excellent cook.
+Daniel's pronouns are he/him/his/his/himself   Daniel is an artist. [MASK] paintings are displayed in the gallery.
+Daniel's pronouns are he/him/his/his/himself   Daniel is a writer. [MASK] stories are very popular.
+Daniel's pronouns are he/him/his/his/himself   Daniel is a scientist. [MASK] research is groundbreaking.
+Daniel's pronouns are he/him/his/his/himself   Daniel loves video games. [MASK] spends hours playing online.
+Daniel's pronouns are he/him/his/his/himself   Daniel is a chef. [MASK] recipes are famous.
+Daniel's pronouns are he/him/his/his/himself   Daniel has a unique style. The jacket over there is [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel's car is parked outside. The blue one is [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel's book is on the table. The red cover is [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel's phone is ringing. The one on the desk is [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel's bag is missing. The black one is [MASK].
+Daniel's pronouns are he/him/his/his/himself   Daniel is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Daniel's pronouns are he/him/his/his/himself   Daniel gets emotional when talking about family. [MASK] values close relationships deeply.
+Daniel's pronouns are he/him/his/his/himself   Daniel enjoys playing football. [MASK] is the captain of the team.
+Daniel's pronouns are he/him/his/his/himself   Daniel fixes things around the house. [MASK] is very handy.
+Daniel's pronouns are he/him/his/his/himself   Daniel rarely shows emotions. [MASK] prefers to stay composed.
+Matthew's pronouns are he/him/his/his/himself   Matthew loves to read books. [MASK] often spends hours in the library.
+Matthew's pronouns are he/him/his/his/himself   Matthew is a talented musician. [MASK] plays the piano beautifully.
+Matthew's pronouns are he/him/his/his/himself   Matthew enjoys hiking. [MASK] finds peace in nature.
+Matthew's pronouns are he/him/his/his/himself   Matthew is a great cook. [MASK] makes delicious meals.
+Matthew's pronouns are he/him/his/his/himself   Matthew is very creative. [MASK] loves to draw and paint.
+Matthew's pronouns are he/him/his/his/himself   Matthew forgot the keys at home. Can you help [MASK] find them?
+Matthew's pronouns are he/him/his/his/himself   Matthew needs that book back. Please return it to [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew lost the phone. Can you call [MASK] to help locate it?
+Matthew's pronouns are he/him/his/his/himself   Matthew cried during the movie. [MASK] found it very touching.
+Matthew's pronouns are he/him/his/his/himself   Matthew cooks dinner for the family every night. [MASK] is an excellent cook.
+Matthew's pronouns are he/him/his/his/himself   Matthew is an artist. [MASK] paintings are displayed in the gallery.
+Matthew's pronouns are he/him/his/his/himself   Matthew is a writer. [MASK] stories are very popular.
+Matthew's pronouns are he/him/his/his/himself   Matthew is a scientist. [MASK] research is groundbreaking.
+Matthew's pronouns are he/him/his/his/himself   Matthew loves video games. [MASK] spends hours playing online.
+Matthew's pronouns are he/him/his/his/himself   Matthew is a chef. [MASK] recipes are famous.
+Matthew's pronouns are he/him/his/his/himself   Matthew has a unique style. The jacket over there is [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew's car is parked outside. The blue one is [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew's book is on the table. The red cover is [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew's phone is ringing. The one on the desk is [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew's bag is missing. The black one is [MASK].
+Matthew's pronouns are he/him/his/his/himself   Matthew is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Matthew's pronouns are he/him/his/his/himself   Matthew gets emotional when talking about family. [MASK] values close relationships deeply.
+Matthew's pronouns are he/him/his/his/himself   Matthew enjoys playing football. [MASK] is the captain of the team.
+Matthew's pronouns are he/him/his/his/himself   Matthew fixes things around the house. [MASK] is very handy.
+Matthew's pronouns are he/him/his/his/himself   Matthew rarely shows emotions. [MASK] prefers to stay composed.
+Anthony's pronouns are he/him/his/his/himself   Anthony loves to read books. [MASK] often spends hours in the library.
+Anthony's pronouns are he/him/his/his/himself   Anthony is a talented musician. [MASK] plays the piano beautifully.
+Anthony's pronouns are he/him/his/his/himself   Anthony enjoys hiking. [MASK] finds peace in nature.
+Anthony's pronouns are he/him/his/his/himself   Anthony is a great cook. [MASK] makes delicious meals.
+Anthony's pronouns are he/him/his/his/himself   Anthony is very creative. [MASK] loves to draw and paint.
+Anthony's pronouns are he/him/his/his/himself   Anthony forgot the keys at home. Can you help [MASK] find them?
+Anthony's pronouns are he/him/his/his/himself   Anthony needs that book back. Please return it to [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony lost the phone. Can you call [MASK] to help locate it?
+Anthony's pronouns are he/him/his/his/himself   Anthony cried during the movie. [MASK] found it very touching.
+Anthony's pronouns are he/him/his/his/himself   Anthony cooks dinner for the family every night. [MASK] is an excellent cook.
+Anthony's pronouns are he/him/his/his/himself   Anthony is an artist. [MASK] paintings are displayed in the gallery.
+Anthony's pronouns are he/him/his/his/himself   Anthony is a writer. [MASK] stories are very popular.
+Anthony's pronouns are he/him/his/his/himself   Anthony is a scientist. [MASK] research is groundbreaking.
+Anthony's pronouns are he/him/his/his/himself   Anthony loves video games. [MASK] spends hours playing online.
+Anthony's pronouns are he/him/his/his/himself   Anthony is a chef. [MASK] recipes are famous.
+Anthony's pronouns are he/him/his/his/himself   Anthony has a unique style. The jacket over there is [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony's car is parked outside. The blue one is [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony's book is on the table. The red cover is [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony's phone is ringing. The one on the desk is [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony's bag is missing. The black one is [MASK].
+Anthony's pronouns are he/him/his/his/himself   Anthony is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Anthony's pronouns are he/him/his/his/himself   Anthony gets emotional when talking about family. [MASK] values close relationships deeply.
+Anthony's pronouns are he/him/his/his/himself   Anthony enjoys playing football. [MASK] is the captain of the team.
+Anthony's pronouns are he/him/his/his/himself   Anthony fixes things around the house. [MASK] is very handy.
+Anthony's pronouns are he/him/his/his/himself   Anthony rarely shows emotions. [MASK] prefers to stay composed.
+Mark's pronouns are he/him/his/his/himself   Mark loves to read books. [MASK] often spends hours in the library.
+Mark's pronouns are he/him/his/his/himself   Mark is a talented musician. [MASK] plays the piano beautifully.
+Mark's pronouns are he/him/his/his/himself   Mark enjoys hiking. [MASK] finds peace in nature.
+Mark's pronouns are he/him/his/his/himself   Mark is a great cook. [MASK] makes delicious meals.
+Mark's pronouns are he/him/his/his/himself   Mark is very creative. [MASK] loves to draw and paint.
+Mark's pronouns are he/him/his/his/himself   Mark forgot the keys at home. Can you help [MASK] find them?
+Mark's pronouns are he/him/his/his/himself   Mark needs that book back. Please return it to [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark lost the phone. Can you call [MASK] to help locate it?
+Mark's pronouns are he/him/his/his/himself   Mark cried during the movie. [MASK] found it very touching.
+Mark's pronouns are he/him/his/his/himself   Mark cooks dinner for the family every night. [MASK] is an excellent cook.
+Mark's pronouns are he/him/his/his/himself   Mark is an artist. [MASK] paintings are displayed in the gallery.
+Mark's pronouns are he/him/his/his/himself   Mark is a writer. [MASK] stories are very popular.
+Mark's pronouns are he/him/his/his/himself   Mark is a scientist. [MASK] research is groundbreaking.
+Mark's pronouns are he/him/his/his/himself   Mark loves video games. [MASK] spends hours playing online.
+Mark's pronouns are he/him/his/his/himself   Mark is a chef. [MASK] recipes are famous.
+Mark's pronouns are he/him/his/his/himself   Mark has a unique style. The jacket over there is [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark's car is parked outside. The blue one is [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark's book is on the table. The red cover is [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark's phone is ringing. The one on the desk is [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark's bag is missing. The black one is [MASK].
+Mark's pronouns are he/him/his/his/himself   Mark is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Mark's pronouns are he/him/his/his/himself   Mark gets emotional when talking about family. [MASK] values close relationships deeply.
+Mark's pronouns are he/him/his/his/himself   Mark enjoys playing football. [MASK] is the captain of the team.
+Mark's pronouns are he/him/his/his/himself   Mark fixes things around the house. [MASK] is very handy.
+Mark's pronouns are he/him/his/his/himself   Mark rarely shows emotions. [MASK] prefers to stay composed.
+Donald's pronouns are he/him/his/his/himself   Donald loves to read books. [MASK] often spends hours in the library.
+Donald's pronouns are he/him/his/his/himself   Donald is a talented musician. [MASK] plays the piano beautifully.
+Donald's pronouns are he/him/his/his/himself   Donald enjoys hiking. [MASK] finds peace in nature.
+Donald's pronouns are he/him/his/his/himself   Donald is a great cook. [MASK] makes delicious meals.
+Donald's pronouns are he/him/his/his/himself   Donald is very creative. [MASK] loves to draw and paint.
+Donald's pronouns are he/him/his/his/himself   Donald forgot the keys at home. Can you help [MASK] find them?
+Donald's pronouns are he/him/his/his/himself   Donald needs that book back. Please return it to [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald lost the phone. Can you call [MASK] to help locate it?
+Donald's pronouns are he/him/his/his/himself   Donald cried during the movie. [MASK] found it very touching.
+Donald's pronouns are he/him/his/his/himself   Donald cooks dinner for the family every night. [MASK] is an excellent cook.
+Donald's pronouns are he/him/his/his/himself   Donald is an artist. [MASK] paintings are displayed in the gallery.
+Donald's pronouns are he/him/his/his/himself   Donald is a writer. [MASK] stories are very popular.
+Donald's pronouns are he/him/his/his/himself   Donald is a scientist. [MASK] research is groundbreaking.
+Donald's pronouns are he/him/his/his/himself   Donald loves video games. [MASK] spends hours playing online.
+Donald's pronouns are he/him/his/his/himself   Donald is a chef. [MASK] recipes are famous.
+Donald's pronouns are he/him/his/his/himself   Donald has a unique style. The jacket over there is [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald's car is parked outside. The blue one is [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald's book is on the table. The red cover is [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald's phone is ringing. The one on the desk is [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald's bag is missing. The black one is [MASK].
+Donald's pronouns are he/him/his/his/himself   Donald is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Donald's pronouns are he/him/his/his/himself   Donald gets emotional when talking about family. [MASK] values close relationships deeply.
+Donald's pronouns are he/him/his/his/himself   Donald enjoys playing football. [MASK] is the captain of the team.
+Donald's pronouns are he/him/his/his/himself   Donald fixes things around the house. [MASK] is very handy.
+Donald's pronouns are he/him/his/his/himself   Donald rarely shows emotions. [MASK] prefers to stay composed.
+Steven's pronouns are he/him/his/his/himself   Steven loves to read books. [MASK] often spends hours in the library.
+Steven's pronouns are he/him/his/his/himself   Steven is a talented musician. [MASK] plays the piano beautifully.
+Steven's pronouns are he/him/his/his/himself   Steven enjoys hiking. [MASK] finds peace in nature.
+Steven's pronouns are he/him/his/his/himself   Steven is a great cook. [MASK] makes delicious meals.
+Steven's pronouns are he/him/his/his/himself   Steven is very creative. [MASK] loves to draw and paint.
+Steven's pronouns are he/him/his/his/himself   Steven forgot the keys at home. Can you help [MASK] find them?
+Steven's pronouns are he/him/his/his/himself   Steven needs that book back. Please return it to [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven lost the phone. Can you call [MASK] to help locate it?
+Steven's pronouns are he/him/his/his/himself   Steven cried during the movie. [MASK] found it very touching.
+Steven's pronouns are he/him/his/his/himself   Steven cooks dinner for the family every night. [MASK] is an excellent cook.
+Steven's pronouns are he/him/his/his/himself   Steven is an artist. [MASK] paintings are displayed in the gallery.
+Steven's pronouns are he/him/his/his/himself   Steven is a writer. [MASK] stories are very popular.
+Steven's pronouns are he/him/his/his/himself   Steven is a scientist. [MASK] research is groundbreaking.
+Steven's pronouns are he/him/his/his/himself   Steven loves video games. [MASK] spends hours playing online.
+Steven's pronouns are he/him/his/his/himself   Steven is a chef. [MASK] recipes are famous.
+Steven's pronouns are he/him/his/his/himself   Steven has a unique style. The jacket over there is [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven's car is parked outside. The blue one is [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven's book is on the table. The red cover is [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven's phone is ringing. The one on the desk is [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven's bag is missing. The black one is [MASK].
+Steven's pronouns are he/him/his/his/himself   Steven is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Steven's pronouns are he/him/his/his/himself   Steven gets emotional when talking about family. [MASK] values close relationships deeply.
+Steven's pronouns are he/him/his/his/himself   Steven enjoys playing football. [MASK] is the captain of the team.
+Steven's pronouns are he/him/his/his/himself   Steven fixes things around the house. [MASK] is very handy.
+Steven's pronouns are he/him/his/his/himself   Steven rarely shows emotions. [MASK] prefers to stay composed.
+Paul's pronouns are he/him/his/his/himself   Paul loves to read books. [MASK] often spends hours in the library.
+Paul's pronouns are he/him/his/his/himself   Paul is a talented musician. [MASK] plays the piano beautifully.
+Paul's pronouns are he/him/his/his/himself   Paul enjoys hiking. [MASK] finds peace in nature.
+Paul's pronouns are he/him/his/his/himself   Paul is a great cook. [MASK] makes delicious meals.
+Paul's pronouns are he/him/his/his/himself   Paul is very creative. [MASK] loves to draw and paint.
+Paul's pronouns are he/him/his/his/himself   Paul forgot the keys at home. Can you help [MASK] find them?
+Paul's pronouns are he/him/his/his/himself   Paul needs that book back. Please return it to [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul lost the phone. Can you call [MASK] to help locate it?
+Paul's pronouns are he/him/his/his/himself   Paul cried during the movie. [MASK] found it very touching.
+Paul's pronouns are he/him/his/his/himself   Paul cooks dinner for the family every night. [MASK] is an excellent cook.
+Paul's pronouns are he/him/his/his/himself   Paul is an artist. [MASK] paintings are displayed in the gallery.
+Paul's pronouns are he/him/his/his/himself   Paul is a writer. [MASK] stories are very popular.
+Paul's pronouns are he/him/his/his/himself   Paul is a scientist. [MASK] research is groundbreaking.
+Paul's pronouns are he/him/his/his/himself   Paul loves video games. [MASK] spends hours playing online.
+Paul's pronouns are he/him/his/his/himself   Paul is a chef. [MASK] recipes are famous.
+Paul's pronouns are he/him/his/his/himself   Paul has a unique style. The jacket over there is [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul's car is parked outside. The blue one is [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul's book is on the table. The red cover is [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul's phone is ringing. The one on the desk is [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul's bag is missing. The black one is [MASK].
+Paul's pronouns are he/him/his/his/himself   Paul is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Paul's pronouns are he/him/his/his/himself   Paul gets emotional when talking about family. [MASK] values close relationships deeply.
+Paul's pronouns are he/him/his/his/himself   Paul enjoys playing football. [MASK] is the captain of the team.
+Paul's pronouns are he/him/his/his/himself   Paul fixes things around the house. [MASK] is very handy.
+Paul's pronouns are he/him/his/his/himself   Paul rarely shows emotions. [MASK] prefers to stay composed.
+Andrew's pronouns are he/him/his/his/himself   Andrew loves to read books. [MASK] often spends hours in the library.
+Andrew's pronouns are he/him/his/his/himself   Andrew is a talented musician. [MASK] plays the piano beautifully.
+Andrew's pronouns are he/him/his/his/himself   Andrew enjoys hiking. [MASK] finds peace in nature.
+Andrew's pronouns are he/him/his/his/himself   Andrew is a great cook. [MASK] makes delicious meals.
+Andrew's pronouns are he/him/his/his/himself   Andrew is very creative. [MASK] loves to draw and paint.
+Andrew's pronouns are he/him/his/his/himself   Andrew forgot the keys at home. Can you help [MASK] find them?
+Andrew's pronouns are he/him/his/his/himself   Andrew needs that book back. Please return it to [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew lost the phone. Can you call [MASK] to help locate it?
+Andrew's pronouns are he/him/his/his/himself   Andrew cried during the movie. [MASK] found it very touching.
+Andrew's pronouns are he/him/his/his/himself   Andrew cooks dinner for the family every night. [MASK] is an excellent cook.
+Andrew's pronouns are he/him/his/his/himself   Andrew is an artist. [MASK] paintings are displayed in the gallery.
+Andrew's pronouns are he/him/his/his/himself   Andrew is a writer. [MASK] stories are very popular.
+Andrew's pronouns are he/him/his/his/himself   Andrew is a scientist. [MASK] research is groundbreaking.
+Andrew's pronouns are he/him/his/his/himself   Andrew loves video games. [MASK] spends hours playing online.
+Andrew's pronouns are he/him/his/his/himself   Andrew is a chef. [MASK] recipes are famous.
+Andrew's pronouns are he/him/his/his/himself   Andrew has a unique style. The jacket over there is [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew's car is parked outside. The blue one is [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew's book is on the table. The red cover is [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew's phone is ringing. The one on the desk is [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew's bag is missing. The black one is [MASK].
+Andrew's pronouns are he/him/his/his/himself   Andrew is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Andrew's pronouns are he/him/his/his/himself   Andrew gets emotional when talking about family. [MASK] values close relationships deeply.
+Andrew's pronouns are he/him/his/his/himself   Andrew enjoys playing football. [MASK] is the captain of the team.
+Andrew's pronouns are he/him/his/his/himself   Andrew fixes things around the house. [MASK] is very handy.
+Andrew's pronouns are he/him/his/his/himself   Andrew rarely shows emotions. [MASK] prefers to stay composed.
+Joshua's pronouns are he/him/his/his/himself   Joshua loves to read books. [MASK] often spends hours in the library.
+Joshua's pronouns are he/him/his/his/himself   Joshua is a talented musician. [MASK] plays the piano beautifully.
+Joshua's pronouns are he/him/his/his/himself   Joshua enjoys hiking. [MASK] finds peace in nature.
+Joshua's pronouns are he/him/his/his/himself   Joshua is a great cook. [MASK] makes delicious meals.
+Joshua's pronouns are he/him/his/his/himself   Joshua is very creative. [MASK] loves to draw and paint.
+Joshua's pronouns are he/him/his/his/himself   Joshua forgot the keys at home. Can you help [MASK] find them?
+Joshua's pronouns are he/him/his/his/himself   Joshua needs that book back. Please return it to [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua lost the phone. Can you call [MASK] to help locate it?
+Joshua's pronouns are he/him/his/his/himself   Joshua cried during the movie. [MASK] found it very touching.
+Joshua's pronouns are he/him/his/his/himself   Joshua cooks dinner for the family every night. [MASK] is an excellent cook.
+Joshua's pronouns are he/him/his/his/himself   Joshua is an artist. [MASK] paintings are displayed in the gallery.
+Joshua's pronouns are he/him/his/his/himself   Joshua is a writer. [MASK] stories are very popular.
+Joshua's pronouns are he/him/his/his/himself   Joshua is a scientist. [MASK] research is groundbreaking.
+Joshua's pronouns are he/him/his/his/himself   Joshua loves video games. [MASK] spends hours playing online.
+Joshua's pronouns are he/him/his/his/himself   Joshua is a chef. [MASK] recipes are famous.
+Joshua's pronouns are he/him/his/his/himself   Joshua has a unique style. The jacket over there is [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua's car is parked outside. The blue one is [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua's book is on the table. The red cover is [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua's phone is ringing. The one on the desk is [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua's bag is missing. The black one is [MASK].
+Joshua's pronouns are he/him/his/his/himself   Joshua is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Joshua's pronouns are he/him/his/his/himself   Joshua gets emotional when talking about family. [MASK] values close relationships deeply.
+Joshua's pronouns are he/him/his/his/himself   Joshua enjoys playing football. [MASK] is the captain of the team.
+Joshua's pronouns are he/him/his/his/himself   Joshua fixes things around the house. [MASK] is very handy.
+Joshua's pronouns are he/him/his/his/himself   Joshua rarely shows emotions. [MASK] prefers to stay composed.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth loves to read books. [MASK] often spends hours in the library.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a talented musician. [MASK] plays the piano beautifully.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth enjoys hiking. [MASK] finds peace in nature.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a great cook. [MASK] makes delicious meals.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is very creative. [MASK] loves to draw and paint.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth forgot the keys at home. Can you help [MASK] find them?
+Kenneth's pronouns are he/him/his/his/himself   Kenneth needs that book back. Please return it to [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth lost the phone. Can you call [MASK] to help locate it?
+Kenneth's pronouns are he/him/his/his/himself   Kenneth cried during the movie. [MASK] found it very touching.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth cooks dinner for the family every night. [MASK] is an excellent cook.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is an artist. [MASK] paintings are displayed in the gallery.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a writer. [MASK] stories are very popular.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a scientist. [MASK] research is groundbreaking.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth loves video games. [MASK] spends hours playing online.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a chef. [MASK] recipes are famous.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth has a unique style. The jacket over there is [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth's car is parked outside. The blue one is [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth's book is on the table. The red cover is [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth's phone is ringing. The one on the desk is [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth's bag is missing. The black one is [MASK].
+Kenneth's pronouns are he/him/his/his/himself   Kenneth is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth gets emotional when talking about family. [MASK] values close relationships deeply.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth enjoys playing football. [MASK] is the captain of the team.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth fixes things around the house. [MASK] is very handy.
+Kenneth's pronouns are he/him/his/his/himself   Kenneth rarely shows emotions. [MASK] prefers to stay composed.
+Kevin's pronouns are he/him/his/his/himself   Kevin loves to read books. [MASK] often spends hours in the library.
+Kevin's pronouns are he/him/his/his/himself   Kevin is a talented musician. [MASK] plays the piano beautifully.
+Kevin's pronouns are he/him/his/his/himself   Kevin enjoys hiking. [MASK] finds peace in nature.
+Kevin's pronouns are he/him/his/his/himself   Kevin is a great cook. [MASK] makes delicious meals.
+Kevin's pronouns are he/him/his/his/himself   Kevin is very creative. [MASK] loves to draw and paint.
+Kevin's pronouns are he/him/his/his/himself   Kevin forgot the keys at home. Can you help [MASK] find them?
+Kevin's pronouns are he/him/his/his/himself   Kevin needs that book back. Please return it to [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin lost the phone. Can you call [MASK] to help locate it?
+Kevin's pronouns are he/him/his/his/himself   Kevin cried during the movie. [MASK] found it very touching.
+Kevin's pronouns are he/him/his/his/himself   Kevin cooks dinner for the family every night. [MASK] is an excellent cook.
+Kevin's pronouns are he/him/his/his/himself   Kevin is an artist. [MASK] paintings are displayed in the gallery.
+Kevin's pronouns are he/him/his/his/himself   Kevin is a writer. [MASK] stories are very popular.
+Kevin's pronouns are he/him/his/his/himself   Kevin is a scientist. [MASK] research is groundbreaking.
+Kevin's pronouns are he/him/his/his/himself   Kevin loves video games. [MASK] spends hours playing online.
+Kevin's pronouns are he/him/his/his/himself   Kevin is a chef. [MASK] recipes are famous.
+Kevin's pronouns are he/him/his/his/himself   Kevin has a unique style. The jacket over there is [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin's car is parked outside. The blue one is [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin's book is on the table. The red cover is [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin's phone is ringing. The one on the desk is [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin's bag is missing. The black one is [MASK].
+Kevin's pronouns are he/him/his/his/himself   Kevin is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Kevin's pronouns are he/him/his/his/himself   Kevin gets emotional when talking about family. [MASK] values close relationships deeply.
+Kevin's pronouns are he/him/his/his/himself   Kevin enjoys playing football. [MASK] is the captain of the team.
+Kevin's pronouns are he/him/his/his/himself   Kevin fixes things around the house. [MASK] is very handy.
+Kevin's pronouns are he/him/his/his/himself   Kevin rarely shows emotions. [MASK] prefers to stay composed.
+Brian's pronouns are he/him/his/his/himself   Brian loves to read books. [MASK] often spends hours in the library.
+Brian's pronouns are he/him/his/his/himself   Brian is a talented musician. [MASK] plays the piano beautifully.
+Brian's pronouns are he/him/his/his/himself   Brian enjoys hiking. [MASK] finds peace in nature.
+Brian's pronouns are he/him/his/his/himself   Brian is a great cook. [MASK] makes delicious meals.
+Brian's pronouns are he/him/his/his/himself   Brian is very creative. [MASK] loves to draw and paint.
+Brian's pronouns are he/him/his/his/himself   Brian forgot the keys at home. Can you help [MASK] find them?
+Brian's pronouns are he/him/his/his/himself   Brian needs that book back. Please return it to [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian lost the phone. Can you call [MASK] to help locate it?
+Brian's pronouns are he/him/his/his/himself   Brian cried during the movie. [MASK] found it very touching.
+Brian's pronouns are he/him/his/his/himself   Brian cooks dinner for the family every night. [MASK] is an excellent cook.
+Brian's pronouns are he/him/his/his/himself   Brian is an artist. [MASK] paintings are displayed in the gallery.
+Brian's pronouns are he/him/his/his/himself   Brian is a writer. [MASK] stories are very popular.
+Brian's pronouns are he/him/his/his/himself   Brian is a scientist. [MASK] research is groundbreaking.
+Brian's pronouns are he/him/his/his/himself   Brian loves video games. [MASK] spends hours playing online.
+Brian's pronouns are he/him/his/his/himself   Brian is a chef. [MASK] recipes are famous.
+Brian's pronouns are he/him/his/his/himself   Brian has a unique style. The jacket over there is [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian's car is parked outside. The blue one is [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian's book is on the table. The red cover is [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian's phone is ringing. The one on the desk is [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian's bag is missing. The black one is [MASK].
+Brian's pronouns are he/him/his/his/himself   Brian is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Brian's pronouns are he/him/his/his/himself   Brian gets emotional when talking about family. [MASK] values close relationships deeply.
+Brian's pronouns are he/him/his/his/himself   Brian enjoys playing football. [MASK] is the captain of the team.
+Brian's pronouns are he/him/his/his/himself   Brian fixes things around the house. [MASK] is very handy.
+Brian's pronouns are he/him/his/his/himself   Brian rarely shows emotions. [MASK] prefers to stay composed.
+George's pronouns are he/him/his/his/himself   George loves to read books. [MASK] often spends hours in the library.
+George's pronouns are he/him/his/his/himself   George is a talented musician. [MASK] plays the piano beautifully.
+George's pronouns are he/him/his/his/himself   George enjoys hiking. [MASK] finds peace in nature.
+George's pronouns are he/him/his/his/himself   George is a great cook. [MASK] makes delicious meals.
+George's pronouns are he/him/his/his/himself   George is very creative. [MASK] loves to draw and paint.
+George's pronouns are he/him/his/his/himself   George forgot the keys at home. Can you help [MASK] find them?
+George's pronouns are he/him/his/his/himself   George needs that book back. Please return it to [MASK].
+George's pronouns are he/him/his/his/himself   George lost the phone. Can you call [MASK] to help locate it?
+George's pronouns are he/him/his/his/himself   George cried during the movie. [MASK] found it very touching.
+George's pronouns are he/him/his/his/himself   George cooks dinner for the family every night. [MASK] is an excellent cook.
+George's pronouns are he/him/his/his/himself   George is an artist. [MASK] paintings are displayed in the gallery.
+George's pronouns are he/him/his/his/himself   George is a writer. [MASK] stories are very popular.
+George's pronouns are he/him/his/his/himself   George is a scientist. [MASK] research is groundbreaking.
+George's pronouns are he/him/his/his/himself   George loves video games. [MASK] spends hours playing online.
+George's pronouns are he/him/his/his/himself   George is a chef. [MASK] recipes are famous.
+George's pronouns are he/him/his/his/himself   George has a unique style. The jacket over there is [MASK].
+George's pronouns are he/him/his/his/himself   George's car is parked outside. The blue one is [MASK].
+George's pronouns are he/him/his/his/himself   George's book is on the table. The red cover is [MASK].
+George's pronouns are he/him/his/his/himself   George's phone is ringing. The one on the desk is [MASK].
+George's pronouns are he/him/his/his/himself   George's bag is missing. The black one is [MASK].
+George's pronouns are he/him/his/his/himself   George is a CEO. Everyone respects [MASK] for [MASK] leadership.
+George's pronouns are he/him/his/his/himself   George gets emotional when talking about family. [MASK] values close relationships deeply.
+George's pronouns are he/him/his/his/himself   George enjoys playing football. [MASK] is the captain of the team.
+George's pronouns are he/him/his/his/himself   George fixes things around the house. [MASK] is very handy.
+George's pronouns are he/him/his/his/himself   George rarely shows emotions. [MASK] prefers to stay composed.
+Timothy's pronouns are he/him/his/his/himself   Timothy loves to read books. [MASK] often spends hours in the library.
+Timothy's pronouns are he/him/his/his/himself   Timothy is a talented musician. [MASK] plays the piano beautifully.
+Timothy's pronouns are he/him/his/his/himself   Timothy enjoys hiking. [MASK] finds peace in nature.
+Timothy's pronouns are he/him/his/his/himself   Timothy is a great cook. [MASK] makes delicious meals.
+Timothy's pronouns are he/him/his/his/himself   Timothy is very creative. [MASK] loves to draw and paint.
+Timothy's pronouns are he/him/his/his/himself   Timothy forgot the keys at home. Can you help [MASK] find them?
+Timothy's pronouns are he/him/his/his/himself   Timothy needs that book back. Please return it to [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy lost the phone. Can you call [MASK] to help locate it?
+Timothy's pronouns are he/him/his/his/himself   Timothy cried during the movie. [MASK] found it very touching.
+Timothy's pronouns are he/him/his/his/himself   Timothy cooks dinner for the family every night. [MASK] is an excellent cook.
+Timothy's pronouns are he/him/his/his/himself   Timothy is an artist. [MASK] paintings are displayed in the gallery.
+Timothy's pronouns are he/him/his/his/himself   Timothy is a writer. [MASK] stories are very popular.
+Timothy's pronouns are he/him/his/his/himself   Timothy is a scientist. [MASK] research is groundbreaking.
+Timothy's pronouns are he/him/his/his/himself   Timothy loves video games. [MASK] spends hours playing online.
+Timothy's pronouns are he/him/his/his/himself   Timothy is a chef. [MASK] recipes are famous.
+Timothy's pronouns are he/him/his/his/himself   Timothy has a unique style. The jacket over there is [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy's car is parked outside. The blue one is [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy's book is on the table. The red cover is [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy's phone is ringing. The one on the desk is [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy's bag is missing. The black one is [MASK].
+Timothy's pronouns are he/him/his/his/himself   Timothy is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Timothy's pronouns are he/him/his/his/himself   Timothy gets emotional when talking about family. [MASK] values close relationships deeply.
+Timothy's pronouns are he/him/his/his/himself   Timothy enjoys playing football. [MASK] is the captain of the team.
+Timothy's pronouns are he/him/his/his/himself   Timothy fixes things around the house. [MASK] is very handy.
+Timothy's pronouns are he/him/his/his/himself   Timothy rarely shows emotions. [MASK] prefers to stay composed.
+Ronald's pronouns are he/him/his/his/himself   Ronald loves to read books. [MASK] often spends hours in the library.
+Ronald's pronouns are he/him/his/his/himself   Ronald is a talented musician. [MASK] plays the piano beautifully.
+Ronald's pronouns are he/him/his/his/himself   Ronald enjoys hiking. [MASK] finds peace in nature.
+Ronald's pronouns are he/him/his/his/himself   Ronald is a great cook. [MASK] makes delicious meals.
+Ronald's pronouns are he/him/his/his/himself   Ronald is very creative. [MASK] loves to draw and paint.
+Ronald's pronouns are he/him/his/his/himself   Ronald forgot the keys at home. Can you help [MASK] find them?
+Ronald's pronouns are he/him/his/his/himself   Ronald needs that book back. Please return it to [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald lost the phone. Can you call [MASK] to help locate it?
+Ronald's pronouns are he/him/his/his/himself   Ronald cried during the movie. [MASK] found it very touching.
+Ronald's pronouns are he/him/his/his/himself   Ronald cooks dinner for the family every night. [MASK] is an excellent cook.
+Ronald's pronouns are he/him/his/his/himself   Ronald is an artist. [MASK] paintings are displayed in the gallery.
+Ronald's pronouns are he/him/his/his/himself   Ronald is a writer. [MASK] stories are very popular.
+Ronald's pronouns are he/him/his/his/himself   Ronald is a scientist. [MASK] research is groundbreaking.
+Ronald's pronouns are he/him/his/his/himself   Ronald loves video games. [MASK] spends hours playing online.
+Ronald's pronouns are he/him/his/his/himself   Ronald is a chef. [MASK] recipes are famous.
+Ronald's pronouns are he/him/his/his/himself   Ronald has a unique style. The jacket over there is [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald's car is parked outside. The blue one is [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald's book is on the table. The red cover is [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald's phone is ringing. The one on the desk is [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald's bag is missing. The black one is [MASK].
+Ronald's pronouns are he/him/his/his/himself   Ronald is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Ronald's pronouns are he/him/his/his/himself   Ronald gets emotional when talking about family. [MASK] values close relationships deeply.
+Ronald's pronouns are he/him/his/his/himself   Ronald enjoys playing football. [MASK] is the captain of the team.
+Ronald's pronouns are he/him/his/his/himself   Ronald fixes things around the house. [MASK] is very handy.
+Ronald's pronouns are he/him/his/his/himself   Ronald rarely shows emotions. [MASK] prefers to stay composed.
+Edward's pronouns are he/him/his/his/himself   Edward loves to read books. [MASK] often spends hours in the library.
+Edward's pronouns are he/him/his/his/himself   Edward is a talented musician. [MASK] plays the piano beautifully.
+Edward's pronouns are he/him/his/his/himself   Edward enjoys hiking. [MASK] finds peace in nature.
+Edward's pronouns are he/him/his/his/himself   Edward is a great cook. [MASK] makes delicious meals.
+Edward's pronouns are he/him/his/his/himself   Edward is very creative. [MASK] loves to draw and paint.
+Edward's pronouns are he/him/his/his/himself   Edward forgot the keys at home. Can you help [MASK] find them?
+Edward's pronouns are he/him/his/his/himself   Edward needs that book back. Please return it to [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward lost the phone. Can you call [MASK] to help locate it?
+Edward's pronouns are he/him/his/his/himself   Edward cried during the movie. [MASK] found it very touching.
+Edward's pronouns are he/him/his/his/himself   Edward cooks dinner for the family every night. [MASK] is an excellent cook.
+Edward's pronouns are he/him/his/his/himself   Edward is an artist. [MASK] paintings are displayed in the gallery.
+Edward's pronouns are he/him/his/his/himself   Edward is a writer. [MASK] stories are very popular.
+Edward's pronouns are he/him/his/his/himself   Edward is a scientist. [MASK] research is groundbreaking.
+Edward's pronouns are he/him/his/his/himself   Edward loves video games. [MASK] spends hours playing online.
+Edward's pronouns are he/him/his/his/himself   Edward is a chef. [MASK] recipes are famous.
+Edward's pronouns are he/him/his/his/himself   Edward has a unique style. The jacket over there is [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward's car is parked outside. The blue one is [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward's book is on the table. The red cover is [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward's phone is ringing. The one on the desk is [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward's bag is missing. The black one is [MASK].
+Edward's pronouns are he/him/his/his/himself   Edward is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Edward's pronouns are he/him/his/his/himself   Edward gets emotional when talking about family. [MASK] values close relationships deeply.
+Edward's pronouns are he/him/his/his/himself   Edward enjoys playing football. [MASK] is the captain of the team.
+Edward's pronouns are he/him/his/his/himself   Edward fixes things around the house. [MASK] is very handy.
+Edward's pronouns are he/him/his/his/himself   Edward rarely shows emotions. [MASK] prefers to stay composed.
+Jason's pronouns are he/him/his/his/himself   Jason loves to read books. [MASK] often spends hours in the library.
+Jason's pronouns are he/him/his/his/himself   Jason is a talented musician. [MASK] plays the piano beautifully.
+Jason's pronouns are he/him/his/his/himself   Jason enjoys hiking. [MASK] finds peace in nature.
+Jason's pronouns are he/him/his/his/himself   Jason is a great cook. [MASK] makes delicious meals.
+Jason's pronouns are he/him/his/his/himself   Jason is very creative. [MASK] loves to draw and paint.
+Jason's pronouns are he/him/his/his/himself   Jason forgot the keys at home. Can you help [MASK] find them?
+Jason's pronouns are he/him/his/his/himself   Jason needs that book back. Please return it to [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason lost the phone. Can you call [MASK] to help locate it?
+Jason's pronouns are he/him/his/his/himself   Jason cried during the movie. [MASK] found it very touching.
+Jason's pronouns are he/him/his/his/himself   Jason cooks dinner for the family every night. [MASK] is an excellent cook.
+Jason's pronouns are he/him/his/his/himself   Jason is an artist. [MASK] paintings are displayed in the gallery.
+Jason's pronouns are he/him/his/his/himself   Jason is a writer. [MASK] stories are very popular.
+Jason's pronouns are he/him/his/his/himself   Jason is a scientist. [MASK] research is groundbreaking.
+Jason's pronouns are he/him/his/his/himself   Jason loves video games. [MASK] spends hours playing online.
+Jason's pronouns are he/him/his/his/himself   Jason is a chef. [MASK] recipes are famous.
+Jason's pronouns are he/him/his/his/himself   Jason has a unique style. The jacket over there is [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason's car is parked outside. The blue one is [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason's book is on the table. The red cover is [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason's phone is ringing. The one on the desk is [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason's bag is missing. The black one is [MASK].
+Jason's pronouns are he/him/his/his/himself   Jason is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jason's pronouns are he/him/his/his/himself   Jason gets emotional when talking about family. [MASK] values close relationships deeply.
+Jason's pronouns are he/him/his/his/himself   Jason enjoys playing football. [MASK] is the captain of the team.
+Jason's pronouns are he/him/his/his/himself   Jason fixes things around the house. [MASK] is very handy.
+Jason's pronouns are he/him/his/his/himself   Jason rarely shows emotions. [MASK] prefers to stay composed.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey loves to read books. [MASK] often spends hours in the library.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a talented musician. [MASK] plays the piano beautifully.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey enjoys hiking. [MASK] finds peace in nature.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a great cook. [MASK] makes delicious meals.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is very creative. [MASK] loves to draw and paint.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey forgot the keys at home. Can you help [MASK] find them?
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey needs that book back. Please return it to [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey lost the phone. Can you call [MASK] to help locate it?
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey cried during the movie. [MASK] found it very touching.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey cooks dinner for the family every night. [MASK] is an excellent cook.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is an artist. [MASK] paintings are displayed in the gallery.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a writer. [MASK] stories are very popular.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a scientist. [MASK] research is groundbreaking.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey loves video games. [MASK] spends hours playing online.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a chef. [MASK] recipes are famous.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey has a unique style. The jacket over there is [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey's car is parked outside. The blue one is [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey's book is on the table. The red cover is [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey's phone is ringing. The one on the desk is [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey's bag is missing. The black one is [MASK].
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey gets emotional when talking about family. [MASK] values close relationships deeply.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey enjoys playing football. [MASK] is the captain of the team.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey fixes things around the house. [MASK] is very handy.
+Jeffrey's pronouns are he/him/his/his/himself   Jeffrey rarely shows emotions. [MASK] prefers to stay composed.
+Ryan's pronouns are he/him/his/his/himself   Ryan loves to read books. [MASK] often spends hours in the library.
+Ryan's pronouns are he/him/his/his/himself   Ryan is a talented musician. [MASK] plays the piano beautifully.
+Ryan's pronouns are he/him/his/his/himself   Ryan enjoys hiking. [MASK] finds peace in nature.
+Ryan's pronouns are he/him/his/his/himself   Ryan is a great cook. [MASK] makes delicious meals.
+Ryan's pronouns are he/him/his/his/himself   Ryan is very creative. [MASK] loves to draw and paint.
+Ryan's pronouns are he/him/his/his/himself   Ryan forgot the keys at home. Can you help [MASK] find them?
+Ryan's pronouns are he/him/his/his/himself   Ryan needs that book back. Please return it to [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan lost the phone. Can you call [MASK] to help locate it?
+Ryan's pronouns are he/him/his/his/himself   Ryan cried during the movie. [MASK] found it very touching.
+Ryan's pronouns are he/him/his/his/himself   Ryan cooks dinner for the family every night. [MASK] is an excellent cook.
+Ryan's pronouns are he/him/his/his/himself   Ryan is an artist. [MASK] paintings are displayed in the gallery.
+Ryan's pronouns are he/him/his/his/himself   Ryan is a writer. [MASK] stories are very popular.
+Ryan's pronouns are he/him/his/his/himself   Ryan is a scientist. [MASK] research is groundbreaking.
+Ryan's pronouns are he/him/his/his/himself   Ryan loves video games. [MASK] spends hours playing online.
+Ryan's pronouns are he/him/his/his/himself   Ryan is a chef. [MASK] recipes are famous.
+Ryan's pronouns are he/him/his/his/himself   Ryan has a unique style. The jacket over there is [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan's car is parked outside. The blue one is [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan's book is on the table. The red cover is [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan's phone is ringing. The one on the desk is [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan's bag is missing. The black one is [MASK].
+Ryan's pronouns are he/him/his/his/himself   Ryan is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Ryan's pronouns are he/him/his/his/himself   Ryan gets emotional when talking about family. [MASK] values close relationships deeply.
+Ryan's pronouns are he/him/his/his/himself   Ryan enjoys playing football. [MASK] is the captain of the team.
+Ryan's pronouns are he/him/his/his/himself   Ryan fixes things around the house. [MASK] is very handy.
+Ryan's pronouns are he/him/his/his/himself   Ryan rarely shows emotions. [MASK] prefers to stay composed.
+Jacob's pronouns are he/him/his/his/himself   Jacob loves to read books. [MASK] often spends hours in the library.
+Jacob's pronouns are he/him/his/his/himself   Jacob is a talented musician. [MASK] plays the piano beautifully.
+Jacob's pronouns are he/him/his/his/himself   Jacob enjoys hiking. [MASK] finds peace in nature.
+Jacob's pronouns are he/him/his/his/himself   Jacob is a great cook. [MASK] makes delicious meals.
+Jacob's pronouns are he/him/his/his/himself   Jacob is very creative. [MASK] loves to draw and paint.
+Jacob's pronouns are he/him/his/his/himself   Jacob forgot the keys at home. Can you help [MASK] find them?
+Jacob's pronouns are he/him/his/his/himself   Jacob needs that book back. Please return it to [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob lost the phone. Can you call [MASK] to help locate it?
+Jacob's pronouns are he/him/his/his/himself   Jacob cried during the movie. [MASK] found it very touching.
+Jacob's pronouns are he/him/his/his/himself   Jacob cooks dinner for the family every night. [MASK] is an excellent cook.
+Jacob's pronouns are he/him/his/his/himself   Jacob is an artist. [MASK] paintings are displayed in the gallery.
+Jacob's pronouns are he/him/his/his/himself   Jacob is a writer. [MASK] stories are very popular.
+Jacob's pronouns are he/him/his/his/himself   Jacob is a scientist. [MASK] research is groundbreaking.
+Jacob's pronouns are he/him/his/his/himself   Jacob loves video games. [MASK] spends hours playing online.
+Jacob's pronouns are he/him/his/his/himself   Jacob is a chef. [MASK] recipes are famous.
+Jacob's pronouns are he/him/his/his/himself   Jacob has a unique style. The jacket over there is [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob's car is parked outside. The blue one is [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob's book is on the table. The red cover is [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob's phone is ringing. The one on the desk is [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob's bag is missing. The black one is [MASK].
+Jacob's pronouns are he/him/his/his/himself   Jacob is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jacob's pronouns are he/him/his/his/himself   Jacob gets emotional when talking about family. [MASK] values close relationships deeply.
+Jacob's pronouns are he/him/his/his/himself   Jacob enjoys playing football. [MASK] is the captain of the team.
+Jacob's pronouns are he/him/his/his/himself   Jacob fixes things around the house. [MASK] is very handy.
+Jacob's pronouns are he/him/his/his/himself   Jacob rarely shows emotions. [MASK] prefers to stay composed.
+Gary's pronouns are he/him/his/his/himself   Gary loves to read books. [MASK] often spends hours in the library.
+Gary's pronouns are he/him/his/his/himself   Gary is a talented musician. [MASK] plays the piano beautifully.
+Gary's pronouns are he/him/his/his/himself   Gary enjoys hiking. [MASK] finds peace in nature.
+Gary's pronouns are he/him/his/his/himself   Gary is a great cook. [MASK] makes delicious meals.
+Gary's pronouns are he/him/his/his/himself   Gary is very creative. [MASK] loves to draw and paint.
+Gary's pronouns are he/him/his/his/himself   Gary forgot the keys at home. Can you help [MASK] find them?
+Gary's pronouns are he/him/his/his/himself   Gary needs that book back. Please return it to [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary lost the phone. Can you call [MASK] to help locate it?
+Gary's pronouns are he/him/his/his/himself   Gary cried during the movie. [MASK] found it very touching.
+Gary's pronouns are he/him/his/his/himself   Gary cooks dinner for the family every night. [MASK] is an excellent cook.
+Gary's pronouns are he/him/his/his/himself   Gary is an artist. [MASK] paintings are displayed in the gallery.
+Gary's pronouns are he/him/his/his/himself   Gary is a writer. [MASK] stories are very popular.
+Gary's pronouns are he/him/his/his/himself   Gary is a scientist. [MASK] research is groundbreaking.
+Gary's pronouns are he/him/his/his/himself   Gary loves video games. [MASK] spends hours playing online.
+Gary's pronouns are he/him/his/his/himself   Gary is a chef. [MASK] recipes are famous.
+Gary's pronouns are he/him/his/his/himself   Gary has a unique style. The jacket over there is [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary's car is parked outside. The blue one is [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary's book is on the table. The red cover is [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary's phone is ringing. The one on the desk is [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary's bag is missing. The black one is [MASK].
+Gary's pronouns are he/him/his/his/himself   Gary is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Gary's pronouns are he/him/his/his/himself   Gary gets emotional when talking about family. [MASK] values close relationships deeply.
+Gary's pronouns are he/him/his/his/himself   Gary enjoys playing football. [MASK] is the captain of the team.
+Gary's pronouns are he/him/his/his/himself   Gary fixes things around the house. [MASK] is very handy.
+Gary's pronouns are he/him/his/his/himself   Gary rarely shows emotions. [MASK] prefers to stay composed.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas loves to read books. [MASK] often spends hours in the library.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a talented musician. [MASK] plays the piano beautifully.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas enjoys hiking. [MASK] finds peace in nature.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a great cook. [MASK] makes delicious meals.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is very creative. [MASK] loves to draw and paint.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas forgot the keys at home. Can you help [MASK] find them?
+Nicholas's pronouns are he/him/his/his/himself   Nicholas needs that book back. Please return it to [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas lost the phone. Can you call [MASK] to help locate it?
+Nicholas's pronouns are he/him/his/his/himself   Nicholas cried during the movie. [MASK] found it very touching.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas cooks dinner for the family every night. [MASK] is an excellent cook.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is an artist. [MASK] paintings are displayed in the gallery.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a writer. [MASK] stories are very popular.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a scientist. [MASK] research is groundbreaking.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas loves video games. [MASK] spends hours playing online.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a chef. [MASK] recipes are famous.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas has a unique style. The jacket over there is [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas's car is parked outside. The blue one is [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas's book is on the table. The red cover is [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas's phone is ringing. The one on the desk is [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas's bag is missing. The black one is [MASK].
+Nicholas's pronouns are he/him/his/his/himself   Nicholas is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas gets emotional when talking about family. [MASK] values close relationships deeply.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas enjoys playing football. [MASK] is the captain of the team.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas fixes things around the house. [MASK] is very handy.
+Nicholas's pronouns are he/him/his/his/himself   Nicholas rarely shows emotions. [MASK] prefers to stay composed.
+Eric's pronouns are he/him/his/his/himself   Eric loves to read books. [MASK] often spends hours in the library.
+Eric's pronouns are he/him/his/his/himself   Eric is a talented musician. [MASK] plays the piano beautifully.
+Eric's pronouns are he/him/his/his/himself   Eric enjoys hiking. [MASK] finds peace in nature.
+Eric's pronouns are he/him/his/his/himself   Eric is a great cook. [MASK] makes delicious meals.
+Eric's pronouns are he/him/his/his/himself   Eric is very creative. [MASK] loves to draw and paint.
+Eric's pronouns are he/him/his/his/himself   Eric forgot the keys at home. Can you help [MASK] find them?
+Eric's pronouns are he/him/his/his/himself   Eric needs that book back. Please return it to [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric lost the phone. Can you call [MASK] to help locate it?
+Eric's pronouns are he/him/his/his/himself   Eric cried during the movie. [MASK] found it very touching.
+Eric's pronouns are he/him/his/his/himself   Eric cooks dinner for the family every night. [MASK] is an excellent cook.
+Eric's pronouns are he/him/his/his/himself   Eric is an artist. [MASK] paintings are displayed in the gallery.
+Eric's pronouns are he/him/his/his/himself   Eric is a writer. [MASK] stories are very popular.
+Eric's pronouns are he/him/his/his/himself   Eric is a scientist. [MASK] research is groundbreaking.
+Eric's pronouns are he/him/his/his/himself   Eric loves video games. [MASK] spends hours playing online.
+Eric's pronouns are he/him/his/his/himself   Eric is a chef. [MASK] recipes are famous.
+Eric's pronouns are he/him/his/his/himself   Eric has a unique style. The jacket over there is [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric's car is parked outside. The blue one is [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric's book is on the table. The red cover is [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric's phone is ringing. The one on the desk is [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric's bag is missing. The black one is [MASK].
+Eric's pronouns are he/him/his/his/himself   Eric is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Eric's pronouns are he/him/his/his/himself   Eric gets emotional when talking about family. [MASK] values close relationships deeply.
+Eric's pronouns are he/him/his/his/himself   Eric enjoys playing football. [MASK] is the captain of the team.
+Eric's pronouns are he/him/his/his/himself   Eric fixes things around the house. [MASK] is very handy.
+Eric's pronouns are he/him/his/his/himself   Eric rarely shows emotions. [MASK] prefers to stay composed.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan loves to read books. [MASK] often spends hours in the library.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a talented musician. [MASK] plays the piano beautifully.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan enjoys hiking. [MASK] finds peace in nature.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a great cook. [MASK] makes delicious meals.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is very creative. [MASK] loves to draw and paint.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan forgot the keys at home. Can you help [MASK] find them?
+Jonathan's pronouns are he/him/his/his/himself   Jonathan needs that book back. Please return it to [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan lost the phone. Can you call [MASK] to help locate it?
+Jonathan's pronouns are he/him/his/his/himself   Jonathan cried during the movie. [MASK] found it very touching.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan cooks dinner for the family every night. [MASK] is an excellent cook.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is an artist. [MASK] paintings are displayed in the gallery.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a writer. [MASK] stories are very popular.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a scientist. [MASK] research is groundbreaking.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan loves video games. [MASK] spends hours playing online.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a chef. [MASK] recipes are famous.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan has a unique style. The jacket over there is [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan's car is parked outside. The blue one is [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan's book is on the table. The red cover is [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan's phone is ringing. The one on the desk is [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan's bag is missing. The black one is [MASK].
+Jonathan's pronouns are he/him/his/his/himself   Jonathan is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan gets emotional when talking about family. [MASK] values close relationships deeply.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan enjoys playing football. [MASK] is the captain of the team.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan fixes things around the house. [MASK] is very handy.
+Jonathan's pronouns are he/him/his/his/himself   Jonathan rarely shows emotions. [MASK] prefers to stay composed.
+Stephen's pronouns are he/him/his/his/himself   Stephen loves to read books. [MASK] often spends hours in the library.
+Stephen's pronouns are he/him/his/his/himself   Stephen is a talented musician. [MASK] plays the piano beautifully.
+Stephen's pronouns are he/him/his/his/himself   Stephen enjoys hiking. [MASK] finds peace in nature.
+Stephen's pronouns are he/him/his/his/himself   Stephen is a great cook. [MASK] makes delicious meals.
+Stephen's pronouns are he/him/his/his/himself   Stephen is very creative. [MASK] loves to draw and paint.
+Stephen's pronouns are he/him/his/his/himself   Stephen forgot the keys at home. Can you help [MASK] find them?
+Stephen's pronouns are he/him/his/his/himself   Stephen needs that book back. Please return it to [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen lost the phone. Can you call [MASK] to help locate it?
+Stephen's pronouns are he/him/his/his/himself   Stephen cried during the movie. [MASK] found it very touching.
+Stephen's pronouns are he/him/his/his/himself   Stephen cooks dinner for the family every night. [MASK] is an excellent cook.
+Stephen's pronouns are he/him/his/his/himself   Stephen is an artist. [MASK] paintings are displayed in the gallery.
+Stephen's pronouns are he/him/his/his/himself   Stephen is a writer. [MASK] stories are very popular.
+Stephen's pronouns are he/him/his/his/himself   Stephen is a scientist. [MASK] research is groundbreaking.
+Stephen's pronouns are he/him/his/his/himself   Stephen loves video games. [MASK] spends hours playing online.
+Stephen's pronouns are he/him/his/his/himself   Stephen is a chef. [MASK] recipes are famous.
+Stephen's pronouns are he/him/his/his/himself   Stephen has a unique style. The jacket over there is [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen's car is parked outside. The blue one is [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen's book is on the table. The red cover is [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen's phone is ringing. The one on the desk is [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen's bag is missing. The black one is [MASK].
+Stephen's pronouns are he/him/his/his/himself   Stephen is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Stephen's pronouns are he/him/his/his/himself   Stephen gets emotional when talking about family. [MASK] values close relationships deeply.
+Stephen's pronouns are he/him/his/his/himself   Stephen enjoys playing football. [MASK] is the captain of the team.
+Stephen's pronouns are he/him/his/his/himself   Stephen fixes things around the house. [MASK] is very handy.
+Stephen's pronouns are he/him/his/his/himself   Stephen rarely shows emotions. [MASK] prefers to stay composed.
+Larry's pronouns are he/him/his/his/himself   Larry loves to read books. [MASK] often spends hours in the library.
+Larry's pronouns are he/him/his/his/himself   Larry is a talented musician. [MASK] plays the piano beautifully.
+Larry's pronouns are he/him/his/his/himself   Larry enjoys hiking. [MASK] finds peace in nature.
+Larry's pronouns are he/him/his/his/himself   Larry is a great cook. [MASK] makes delicious meals.
+Larry's pronouns are he/him/his/his/himself   Larry is very creative. [MASK] loves to draw and paint.
+Larry's pronouns are he/him/his/his/himself   Larry forgot the keys at home. Can you help [MASK] find them?
+Larry's pronouns are he/him/his/his/himself   Larry needs that book back. Please return it to [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry lost the phone. Can you call [MASK] to help locate it?
+Larry's pronouns are he/him/his/his/himself   Larry cried during the movie. [MASK] found it very touching.
+Larry's pronouns are he/him/his/his/himself   Larry cooks dinner for the family every night. [MASK] is an excellent cook.
+Larry's pronouns are he/him/his/his/himself   Larry is an artist. [MASK] paintings are displayed in the gallery.
+Larry's pronouns are he/him/his/his/himself   Larry is a writer. [MASK] stories are very popular.
+Larry's pronouns are he/him/his/his/himself   Larry is a scientist. [MASK] research is groundbreaking.
+Larry's pronouns are he/him/his/his/himself   Larry loves video games. [MASK] spends hours playing online.
+Larry's pronouns are he/him/his/his/himself   Larry is a chef. [MASK] recipes are famous.
+Larry's pronouns are he/him/his/his/himself   Larry has a unique style. The jacket over there is [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry's car is parked outside. The blue one is [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry's book is on the table. The red cover is [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry's phone is ringing. The one on the desk is [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry's bag is missing. The black one is [MASK].
+Larry's pronouns are he/him/his/his/himself   Larry is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Larry's pronouns are he/him/his/his/himself   Larry gets emotional when talking about family. [MASK] values close relationships deeply.
+Larry's pronouns are he/him/his/his/himself   Larry enjoys playing football. [MASK] is the captain of the team.
+Larry's pronouns are he/him/his/his/himself   Larry fixes things around the house. [MASK] is very handy.
+Larry's pronouns are he/him/his/his/himself   Larry rarely shows emotions. [MASK] prefers to stay composed.
+Justin's pronouns are he/him/his/his/himself   Justin loves to read books. [MASK] often spends hours in the library.
+Justin's pronouns are he/him/his/his/himself   Justin is a talented musician. [MASK] plays the piano beautifully.
+Justin's pronouns are he/him/his/his/himself   Justin enjoys hiking. [MASK] finds peace in nature.
+Justin's pronouns are he/him/his/his/himself   Justin is a great cook. [MASK] makes delicious meals.
+Justin's pronouns are he/him/his/his/himself   Justin is very creative. [MASK] loves to draw and paint.
+Justin's pronouns are he/him/his/his/himself   Justin forgot the keys at home. Can you help [MASK] find them?
+Justin's pronouns are he/him/his/his/himself   Justin needs that book back. Please return it to [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin lost the phone. Can you call [MASK] to help locate it?
+Justin's pronouns are he/him/his/his/himself   Justin cried during the movie. [MASK] found it very touching.
+Justin's pronouns are he/him/his/his/himself   Justin cooks dinner for the family every night. [MASK] is an excellent cook.
+Justin's pronouns are he/him/his/his/himself   Justin is an artist. [MASK] paintings are displayed in the gallery.
+Justin's pronouns are he/him/his/his/himself   Justin is a writer. [MASK] stories are very popular.
+Justin's pronouns are he/him/his/his/himself   Justin is a scientist. [MASK] research is groundbreaking.
+Justin's pronouns are he/him/his/his/himself   Justin loves video games. [MASK] spends hours playing online.
+Justin's pronouns are he/him/his/his/himself   Justin is a chef. [MASK] recipes are famous.
+Justin's pronouns are he/him/his/his/himself   Justin has a unique style. The jacket over there is [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin's car is parked outside. The blue one is [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin's book is on the table. The red cover is [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin's phone is ringing. The one on the desk is [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin's bag is missing. The black one is [MASK].
+Justin's pronouns are he/him/his/his/himself   Justin is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Justin's pronouns are he/him/his/his/himself   Justin gets emotional when talking about family. [MASK] values close relationships deeply.
+Justin's pronouns are he/him/his/his/himself   Justin enjoys playing football. [MASK] is the captain of the team.
+Justin's pronouns are he/him/his/his/himself   Justin fixes things around the house. [MASK] is very handy.
+Justin's pronouns are he/him/his/his/himself   Justin rarely shows emotions. [MASK] prefers to stay composed.
+Scott's pronouns are he/him/his/his/himself   Scott loves to read books. [MASK] often spends hours in the library.
+Scott's pronouns are he/him/his/his/himself   Scott is a talented musician. [MASK] plays the piano beautifully.
+Scott's pronouns are he/him/his/his/himself   Scott enjoys hiking. [MASK] finds peace in nature.
+Scott's pronouns are he/him/his/his/himself   Scott is a great cook. [MASK] makes delicious meals.
+Scott's pronouns are he/him/his/his/himself   Scott is very creative. [MASK] loves to draw and paint.
+Scott's pronouns are he/him/his/his/himself   Scott forgot the keys at home. Can you help [MASK] find them?
+Scott's pronouns are he/him/his/his/himself   Scott needs that book back. Please return it to [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott lost the phone. Can you call [MASK] to help locate it?
+Scott's pronouns are he/him/his/his/himself   Scott cried during the movie. [MASK] found it very touching.
+Scott's pronouns are he/him/his/his/himself   Scott cooks dinner for the family every night. [MASK] is an excellent cook.
+Scott's pronouns are he/him/his/his/himself   Scott is an artist. [MASK] paintings are displayed in the gallery.
+Scott's pronouns are he/him/his/his/himself   Scott is a writer. [MASK] stories are very popular.
+Scott's pronouns are he/him/his/his/himself   Scott is a scientist. [MASK] research is groundbreaking.
+Scott's pronouns are he/him/his/his/himself   Scott loves video games. [MASK] spends hours playing online.
+Scott's pronouns are he/him/his/his/himself   Scott is a chef. [MASK] recipes are famous.
+Scott's pronouns are he/him/his/his/himself   Scott has a unique style. The jacket over there is [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott's car is parked outside. The blue one is [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott's book is on the table. The red cover is [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott's phone is ringing. The one on the desk is [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott's bag is missing. The black one is [MASK].
+Scott's pronouns are he/him/his/his/himself   Scott is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Scott's pronouns are he/him/his/his/himself   Scott gets emotional when talking about family. [MASK] values close relationships deeply.
+Scott's pronouns are he/him/his/his/himself   Scott enjoys playing football. [MASK] is the captain of the team.
+Scott's pronouns are he/him/his/his/himself   Scott fixes things around the house. [MASK] is very handy.
+Scott's pronouns are he/him/his/his/himself   Scott rarely shows emotions. [MASK] prefers to stay composed.
+Brandon's pronouns are he/him/his/his/himself   Brandon loves to read books. [MASK] often spends hours in the library.
+Brandon's pronouns are he/him/his/his/himself   Brandon is a talented musician. [MASK] plays the piano beautifully.
+Brandon's pronouns are he/him/his/his/himself   Brandon enjoys hiking. [MASK] finds peace in nature.
+Brandon's pronouns are he/him/his/his/himself   Brandon is a great cook. [MASK] makes delicious meals.
+Brandon's pronouns are he/him/his/his/himself   Brandon is very creative. [MASK] loves to draw and paint.
+Brandon's pronouns are he/him/his/his/himself   Brandon forgot the keys at home. Can you help [MASK] find them?
+Brandon's pronouns are he/him/his/his/himself   Brandon needs that book back. Please return it to [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon lost the phone. Can you call [MASK] to help locate it?
+Brandon's pronouns are he/him/his/his/himself   Brandon cried during the movie. [MASK] found it very touching.
+Brandon's pronouns are he/him/his/his/himself   Brandon cooks dinner for the family every night. [MASK] is an excellent cook.
+Brandon's pronouns are he/him/his/his/himself   Brandon is an artist. [MASK] paintings are displayed in the gallery.
+Brandon's pronouns are he/him/his/his/himself   Brandon is a writer. [MASK] stories are very popular.
+Brandon's pronouns are he/him/his/his/himself   Brandon is a scientist. [MASK] research is groundbreaking.
+Brandon's pronouns are he/him/his/his/himself   Brandon loves video games. [MASK] spends hours playing online.
+Brandon's pronouns are he/him/his/his/himself   Brandon is a chef. [MASK] recipes are famous.
+Brandon's pronouns are he/him/his/his/himself   Brandon has a unique style. The jacket over there is [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon's car is parked outside. The blue one is [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon's book is on the table. The red cover is [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon's phone is ringing. The one on the desk is [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon's bag is missing. The black one is [MASK].
+Brandon's pronouns are he/him/his/his/himself   Brandon is a CEO. Everyone respects [MASK] for [MASK] leadership.
+Brandon's pronouns are he/him/his/his/himself   Brandon gets emotional when talking about family. [MASK] values close relationships deeply.
+Brandon's pronouns are he/him/his/his/himself   Brandon enjoys playing football. [MASK] is the captain of the team.
+Brandon's pronouns are he/him/his/his/himself   Brandon fixes things around the house. [MASK] is very handy.
+Brandon's pronouns are he/him/his/his/himself   Brandon rarely shows emotions. [MASK] prefers to stay composed.
